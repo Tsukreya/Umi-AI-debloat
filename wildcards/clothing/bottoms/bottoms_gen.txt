@@ -1,0 +1,2 @@
+{__clothing/bottoms/pants__|__clothing/bottoms/bottoms_mod__, __clothing/bottoms/pants__}
+{__clothing/bottoms/skirts__, {__Clothing/Panties/panties_gen__|}|__clothing/bottoms/bottoms_mod__, __clothing/bottoms/skirts__, {__Clothing/Panties/panties_gen__|}}

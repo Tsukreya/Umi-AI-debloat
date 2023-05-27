@@ -1,0 +1,12 @@
+red
+dark red
+light red
+firebrick 
+indian red
+dark salmon	
+light coral
+salmon
+lightsalmon
+coral
+tomatoes
+crimson

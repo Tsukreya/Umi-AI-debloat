@@ -1,0 +1,3 @@
+outdoors, __locations/outdoors__
+indoors, __locations/indoors__
+building, __locations/building__

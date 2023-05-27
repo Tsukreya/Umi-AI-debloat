@@ -1,0 +1,8 @@
+{__Colors/Color__|} bikesuit
+{__Colors/Color__|} racing suit
+{__Colors/Color__|} bodysuit
+{__Colors/Color__|} jumpsuit
+{__Colors/Color__|} short jumpsuit
+{__Colors/Color__|} leotard
+{__Colors/Color__|} strapless leotard
+{__Colors/Color__|} unitard

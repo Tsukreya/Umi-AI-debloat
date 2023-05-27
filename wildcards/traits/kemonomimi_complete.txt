@@ -1,0 +1,13 @@
+bear ears, bear tail, bear girl
+rabbit ears, rabbit tail, rabbit girl
+cat ears, cat tail, cat girl
+cow ears, cow tail, cow girl
+dog ears, dog tail, dog girl
+fox ears, fox tail, fox girl
+horse ears, horse tail, horse girl
+lion ears, lion tail, lion girl
+mouse ears, mouse tail, mouse girl
+tanuki ears, tanuki tail, tanuki girl
+sheep ears, sheep tail, sheep girl, sheep horns
+tiger ears, tiger tail, tiger girl
+wolf ears, wolf tail, wolf girl

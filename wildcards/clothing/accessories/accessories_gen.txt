@@ -1,0 +1,4 @@
+glasses
+__clothing/accessories/earrings__
+__clothing/accessories/hair__
+__clothing/accessories/neck__

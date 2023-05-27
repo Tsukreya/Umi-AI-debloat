@@ -1,0 +1,7 @@
+__traits/hips__
+__traits/legs__
+__traits/thighs__
+__traits/hips__, __traits/legs__
+__traits/hips__, __traits/thighs__
+__traits/legs__, __traits/thighs__
+__traits/hips__, __traits/legs__, __traits/thighs__
