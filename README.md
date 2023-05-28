@@ -1,3 +1,6 @@
+# Fork
+I git pull this often and I don't want to git pull every single embedding every time, that's why this fork.
+
 # Umi AI: A WebUI Wildcard Mod!
 
 Umi AI is a wildcard mod that allows you to create randomized characters from random species with modular clothing types. It will grow over time and eventually become the ultimate character randomizer and creator.
