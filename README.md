@@ -1,5 +1,6 @@
 # Fork
 I git pull this often and I don't want to git pull every single embedding every time, that's why this fork.
+The weird commit numbers stem from the fact that I purged the git history to not download a 1gb file every time.
 
 # Umi AI: A WebUI Wildcard Mod!
 
