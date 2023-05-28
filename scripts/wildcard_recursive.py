@@ -77,18 +77,26 @@ class TagLoader:
             for file in files:
                 with open(file, encoding="utf8") as file:
                     self.files.append(f"{file_path}.yaml")
+                    path = os.path.relpath(file.name)
                     try:
                         data = yaml.safe_load(file)
+                        if not isinstance(data, dict):
+                            print(f'Warning: Missing contents in {path}')
+                            continue
+
                         for item in data:
                             if (hasattr(output, item) and verbose):
-                                print(f"Duplicate key {item} in {file}")
+                                print(f'Warning: Duplicate key "{item}" in {path}')
                             if data[item] and 'Tags' in data[item]:
+                                if not isinstance(data[item]['Tags'], list):
+                                    print(f'Warning: No tags found in at item "{item}" (add at least one tag to it) in {path}')
+                                    continue
                                 output[item] = {
                                     x.lower().strip()
                                     for i, x in enumerate(data[item]['Tags'])
                                 }
                             else:
-                                print(f'Issue with tags found in {file} at item {item}')
+                                print(f'Warning: No "Tags" section found in at item "{item}" in {path}')
                     except yaml.YAMLError as exc:
                         print(exc)
             self.loaded_tags[key] = output
@@ -242,7 +250,7 @@ class TagReplacer:
 class DynamicPromptReplacer:
 
     def __init__(self):
-        self.re_combinations = re.compile(r"\{([^{}]*)}")
+        self.re_combinations = re.compile(r"\{([^{}]*)\}")
 
     def get_variant_weight(self, variant):
         split_variant = variant.split("%")
@@ -311,7 +319,6 @@ class DynamicPromptReplacer:
                 variants.pop(index)
                 weights.pop(index)
 
-            #print(f"Picked:\n{' , '.join(picked)}\n")
             return " , ".join(picked)
         except ValueError as e:
             return ""
