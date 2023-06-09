@@ -1,15 +1,15 @@
-{__Colors/Color__|} bikini
-{__Colors/Color__|} bikini, sarong
-{__Colors/Color__|} leaf bikini
-{__Colors/Color__|} string bikini
-{__Colors/Color__|} micro bikini
-{__Colors/Color__|} bikini, side-tie bikini bottom
-{__Colors/Color__|} lowleg bikini
-{__Colors/Color__|} thong bikini
-{__Colors/Color__|} venus bikini
-{__Colors/Color__|} sports bikini
-{__Colors/Color__|} swimsuit
-{__Colors/Color__|} swimsuit, rash guard
-{__Colors/Color__|} competition swimsuit
-{__Colors/Color__|} slingshot swimsuit
-{__Colors/Color__|} school swimsuit
+{__colors/color__|} bikini
+{__colors/color__|} bikini, sarong
+{__colors/color__|} leaf bikini
+{__colors/color__|} string bikini
+{__colors/color__|} micro bikini
+{__colors/color__|} bikini, side-tie bikini bottom
+{__colors/color__|} lowleg bikini
+{__colors/color__|} thong bikini
+{__colors/color__|} venus bikini
+{__colors/color__|} sports bikini
+{__colors/color__|} swimsuit
+{__colors/color__|} swimsuit, rash guard
+{__colors/color__|} competition swimsuit
+{__colors/color__|} slingshot swimsuit
+{__colors/color__|} school swimsuit

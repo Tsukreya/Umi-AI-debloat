@@ -1,6 +1,6 @@
 (tokino sora:1.2), blue eyes, brown hair, long hair, hair flaps, hairclip, red ribbon, 
 (roboco-san:1.2), android, yellow eyes, brown hair, android, mechanical arms, mechanical legs, short hair, glasses, 
-AZKI, black hair, pink hair, purple eyes, colored inner hair
+azki, black hair, pink hair, purple eyes, colored inner hair
 sakura miko, pink hair, green eyes, hair ornament, nontraditional miko, medium hair, 
 hoshimachi suisei, blue hair, blue eyes, star in eye, hair between eyes
 yozora mel, blonde hair, short hair, skin fang, orange eyes,
@@ -26,7 +26,7 @@ takanashi kiara, gradient hair, orange hair, green hair, colored inner hair,
 mori calliope, pink hair, pink eyes, blunt bangs, sidelocks
 hakos baelz, mouse girl, mouse ears, red hair, white hair, two-tone hair, black hair, twintails, blue eyes
 nanashi mumei, brown hair, brown eyes, streaked hair, (black hair:0.5), sidelocks, ahoge, hairclip, runes, feather hair ornament
-iRyS, heterochromia, purple eyes, blue eyes, dark purple hair, red hair, horns, pointy ears, 
+irys, heterochromia, purple eyes, blue eyes, dark purple hair, red hair, horns, pointy ears, 
 himemori luna, heterochromia, pink hair, purple eyes, green eyes, (princess:0.8), wavy hair, gradient hair, purple hair, one side up, single hair ring, candy hair ornament, 
 amane kanata, purple eyes, grey hair, streaked hair, short hair, colored inner hair, (pink hair:0.5), assymetrical bob cut, single hair intake, hair over one eye
 yuzuki choco, blonde hair, demon horns, long hair, wings, green eyes, gradient hair, pink hair, pointy ears
