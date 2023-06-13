@@ -1,647 +1,647 @@
-# Huge list of artstyles from DutchAlex, untested
-'70s Disco aesthetic
-2-Tone aesthetic
-1950's Suburbia aesthetic
-2000's Autumn aesthetic
-2014 Girly Tumblr aesthetic
-2K Animecore aesthetic
-Abstract Tech aesthetic
-Acid Pixie aesthetic
-Acidwave aesthetic
-Adventure Pulp aesthetic
-Adventurecore aesthetic
-Aetherpunk aesthetic
-Afrofuturism aesthetic
-Afro-Victorian aesthetic
-After Hours aesthetic
-Agropeople aesthetic
-Alien aesthetic
-Alternative aesthetic
-Americana aesthetic
-Analog Horror aesthetic
-American Pioneers aesthetic
-American Revolution aesthetic
-American Thanksgiving aesthetic
-American Tourist Traps aesthetic
-Ancient Egypt aesthetic
-Androgynous aesthetic
-Anemoiacore aesthetic
-Angelcore aesthetic
-Anglocore aesthetic
-Anglo Gothic aesthetic
-Angura Kei aesthetic
-Animecore aesthetic
-Antique Grunge aesthetic
-Anti-Fashion aesthetic
-Arcade aesthetic
-Arcadecore aesthetic
-Art Academia aesthetic
-Arts and Crafts Movement aesthetic
-Art Deco aesthetic
-Art Hoe aesthetic
-Art Nouveau aesthetic
-Asian Baby Girl aesthetic
-Athlete aesthetic
-Atompunk aesthetic
-Auroracore aesthetic
-Avant Apocalypse aesthetic
-Avant-garde aesthetic
-Babycore aesthetic
-Babygirl aesthetic
-Back-to-School aesthetic
-Baddie aesthetic
-Ballet  aesthetic
-Baltic Violence Tumblr aesthetic
-Barbiecore aesthetic
-Bardcore aesthetic
-Baroque aesthetic
-Bastardcore aesthetic
-BDSM aesthetic
-Beach Bunny aesthetic
-Beach Day aesthetic
-Beatnik aesthetic
-Biker aesthetic
-Bimbocore aesthetic
-Biohazard aesthetic
-Biopunk aesthetic
-Bizarro Fiction aesthetic
-Black-Holed Meme aesthetic
-Bloomcore aesthetic
-Bodikon aesthetic
-Bohemian aesthetic
-Bombacore aesthetic
-Bookstore Girl aesthetic
-Bosozoku aesthetic
-Boujee aesthetic
-Breakcore aesthetic
-Britpop aesthetic
-Brocore aesthetic
-Bronzepunk aesthetic
-Bunni Frog aesthetic
-Bubble Bujo aesthetic
-Bubble Goth aesthetic
-Bubblegum Bitch aesthetic
-Bubblegum Witch aesthetic
-Cabincore aesthetic
-Cagole aesthetic
-Camp aesthetic
-Campcore aesthetic
-Candycore aesthetic
-Cargopunk aesthetic
-Carnivalcore aesthetic
-Cartelcore aesthetic
-Cartooncore aesthetic
-Casino aesthetic
-Cassette Futurism aesthetic
-Celtic aesthetic
-Changelingcore aesthetic
-Chaotic Academia aesthetic
-Chav aesthetic
-Cheiron Crush aesthetic
-Cherry Emoji Twitter aesthetic
-Chic Modernist aesthetic
-Cholo aesthetic
-Christcore aesthetic
-Christian Girl Autumn aesthetic
-Christmas aesthetic
-Chunyu aesthetic
-City Pop aesthetic
-Classic Academia aesthetic
-Classic Lolita aesthetic
-Classicism aesthetic
-Cleancore aesthetic
-Clockpunk aesthetic
-Cloudcore aesthetic
-Clowncore aesthetic
-Club aesthetic
-Club Kids aesthetic
-Coastal Grandmother aesthetic
-Cutecore aesthetic
-Coffee House/Cafe aesthetic
-Coffinwood aesthetic
-Colourful Black aesthetic
-Comfy/Cozy aesthetic
-Common White Girl aesthetic
-Concore aesthetic
-Constructivism aesthetic
-Corporate aesthetic
-Corporate Memphis aesthetic
-Corporate Punk aesthetic
-Cottagecore aesthetic
-Cottagegore aesthetic
-Coquette Academia aesthetic
-Coquette aesthetic
-Country aesthetic
-Cozy Childhood Hideaway aesthetic
-C-Pop aesthetic
-Crackhead aesthetic
-Craftcore aesthetic
-Cripplepunk aesthetic
-Crowcore aesthetic
-Crustpunk aesthetic
-Cryptid Academia aesthetic
-Cryptidcore aesthetic
-Cubism aesthetic
-Cuddle Party aesthetic
-Cultcore aesthetic
-Cult Party Kei aesthetic
-Cyber Minimalism aesthetic
-Cyberdelic aesthetic
-Cyber Fairy Grunge aesthetic
-Cyberghetto aesthetic
-Cybergoth aesthetic
-Cybergrunge aesthetic
-CyberneticPunk aesthetic
-Cyberparadism aesthetic
-Cyberpop aesthetic
-Cyberprep aesthetic
-Cyberpunk aesthetic
-Danish Pastel aesthetic
-DarkErrorcore aesthetic
-Dark Academia aesthetic
-Dark Fantasy aesthetic
-Dark Naturalism aesthetic
-Dark Nautical aesthetic
-Dark Nymphet aesthetic
-Dark Paradise aesthetic
-Darkcore aesthetic
-Darkest Academia aesthetic
-Daydreampunk aesthetic
-Dazecore aesthetic
-De Stijl aesthetic
-Deathcore aesthetic
-Deathrock aesthetic
-Decopunk aesthetic
-Decora aesthetic
-Delicate Sweet aesthetic
-Desertwave aesthetic
-Desi Romantic Academia aesthetic
-Dethereal aesthetic
-Devilcore aesthetic
-Dieselpunk aesthetic
-Diner aesthetic
-Dionysism aesthetic
-Dolly Kei aesthetic
-Downtown Girl aesthetic
-Dracopunk aesthetic
-Dragoncore aesthetic
-Drain aesthetic
-Dreamcore aesthetic
-Dreamy aesthetic
-Drugcore aesthetic
-Dual Kawaii aesthetic
-Duckcore aesthetic
-Dullcore aesthetic
-Dungeon Synth aesthetic
-E-Boy aesthetic
-E-Girl aesthetic
-Earthcore aesthetic
-ElectroPop 08 aesthetic
-Electro Swing aesthetic
-Emo aesthetic
-English Major aesthetic
-Equestrian aesthetic
-Erokawa aesthetic
-Ethereal aesthetic
-Europunk aesthetic
-Expressionism aesthetic
-Fairy Academia aesthetic
-Fairy Grunge aesthetic
-Fairy Kei aesthetic
-Fairy Tale aesthetic
-Fairycore aesthetic
-Fanfare aesthetic
-Fantasy aesthetic
-Fantasy Astronomy aesthetic
-Fashwave aesthetic
-Farmer's Daughter aesthetic
-Fauvism aesthetic
-Fawncore aesthetic
-Femboy aesthetic
-Femcel Weeaboo aesthetic
-Femme Fatale aesthetic
-Feralcore aesthetic
-Film Noir aesthetic
-Flapper aesthetic
-Folk Punk aesthetic
-Foodie aesthetic
-Forestpunk aesthetic
-French Girl aesthetic
-French Girly aesthetic
-Frogcore aesthetic
-Frutiger Aero aesthetic
-Funky Seasons aesthetic
-Furry aesthetic
-Futago aesthetic
-Futurism aesthetic
-Gadgetpunk aesthetic
-Game Night aesthetic
-Gamercore aesthetic
-Gamine aesthetic
-Geek aesthetic
-Gen X Soft Club aesthetic
-Ghostcore aesthetic
-Girl-Next-Door aesthetic
-Glam Girl aesthetic
-Glam Rock aesthetic
-Glitchcore aesthetic
-Gloomcore aesthetic
-Glowwave aesthetic
-Goblin Academia aesthetic
-Goblincore aesthetic
-Golden Age of Detective Fiction aesthetic
-Golden Hour aesthetic
-Gopnik aesthetic
-Gorecore aesthetic
-Gorpcore aesthetic
-Goth aesthetic
-Gothcore aesthetic
-Gothic aesthetic
-Gothic Lolita aesthetic
-Grandmillenial aesthetic
-Grandparentcore aesthetic
-Greaser aesthetic
-Green Academia aesthetic
-Grifes aesthetic
-Grindhouse aesthetic
-Groundcore aesthetic
-Grunge aesthetic
-Gull Girl aesthetic
-Gurokawa aesthetic
-Gyaru aesthetic
-Hackercore aesthetic
-Halloween aesthetic
-Hallyu aesthetic
-Happycore aesthetic
-Hatecore aesthetic
-Hauntology aesthetic
-Haussmann Paris aesthetic
-Health Goth aesthetic
-Heatwave aesthetic
-Heistcore aesthetic
-Hellenic aesthetic
-Hermaphroditus aesthetic
-Hermitpunk aesthetic
-Hexatron aesthetic
-Hi-NRG aesthetic
-High School Dream aesthetic
-Hikecore aesthetic
-Hime Lolita aesthetic
-Hip-Hop aesthetic
-Hipness Purgatory aesthetic
-Hippie aesthetic
-Hipster aesthetic
-Hispanicore aesthetic
-Historical Americana aesthetic
-Holosexual aesthetic
-Honeycore aesthetic
-Horror aesthetic
-Horror Academia aesthetic
-Hot Topic aesthetic
-Hustlewave aesthetic
-Hydrogen aesthetic
-Hyperpop aesthetic
-Icepunk aesthetic
-Imaginarium aesthetic
-Impressionism aesthetic
-Indie aesthetic
-Indie Kid aesthetic
-Indie Sleaze aesthetic
-Indicolite aesthetic
-Internet Academia aesthetic
-Italo Disco aesthetic
-Italian Mafia aesthetic
-Jamcore aesthetic
-Japanese High School aesthetic
-Jersey Shore aesthetic
-Joyride aesthetic
-Juggalo aesthetic
-Jungle Grunge aesthetic
-Junglecore aesthetic
-Karasu Zoku aesthetic
-Kawaii aesthetic
-Kawaii Gamer aesthetic
-Key West Kitten aesthetic
-Kidcore aesthetic
-Kid Science aesthetic
-Kimoicore aesthetic
-Kinderwhore aesthetic
-Kingcore aesthetic
-King Gas aesthetic
-Knightcore aesthetic
-Kogal aesthetic
-Kuromicore aesthetic
-La Sape aesthetic
-Labcore aesthetic
-Laborwave aesthetic
-Lagenlook aesthetic
-Larme Kei aesthetic
-Late 2000s Elementary School aesthetic
-Libertywave aesthetic
-Light Academia aesthetic
-Lightcore aesthetic
-Lightningwave aesthetic
-Lil Girl aesthetic
-Liminal Space aesthetic
-Lit Kid aesthetic
-Lo-Fi aesthetic
-Lobotomy-Chic aesthetic
-Lolita aesthetic
-Long Island aesthetic
-Lounge aesthetic
-Lovecore aesthetic
-Lunarpunk aesthetic
-Macaute aesthetic
-Mad Scientist aesthetic
-Magewave aesthetic
-Magical Girls aesthetic
-Maidcore aesthetic
-Mallgoth aesthetic
-Mall Ninja aesthetic
-Maximalism aesthetic
-McBling aesthetic
-Meatcore aesthetic
-Medicalcore aesthetic
-Medieval aesthetic
-MTV Green Sky aesthetic
-Memphis aesthetic
-Mermaid aesthetic
-Metal aesthetic
-Metalcore aesthetic
-Metalheart aesthetic
-Metrosexual aesthetic
-Miami Metro aesthetic
-Midwest Emo aesthetic
-Midwest Gothic aesthetic
-Military aesthetic
-Milk aesthetic
-Miniaturecore aesthetic
-Minimalism aesthetic
-Minivan Rock aesthetic
-Miscellaneous Academia aesthetic
-Mizuiro Kaiwai aesthetic
-Mod aesthetic
-Modern Brazil aesthetic
-Modernism aesthetic
-Mori Kei aesthetic
-Morute aesthetic
-Mote Kei aesthetic
-Mulchcore aesthetic
-Mushroomcore aesthetic
-Mosscore aesthetic
-Ms Paint aesthetic
-Musical Academia aesthetic
-Mythpunk aesthetic
-Nanopunk aesthetic
-Naturecore aesthetic
-Nautical aesthetic
-Nazi Chic aesthetic
-Neko aesthetic
-Neo-Romanism aesthetic
-Neo-Tokyo aesthetic
-Nerd aesthetic
-Nerdcore aesthetic
-New England Gothic aesthetic
-New Age aesthetic
-New Money aesthetic
-New Romantic aesthetic
-New Wave aesthetic
-Nihilcore aesthetic
-Nintencore aesthetic
-Normcore aesthetic
-Northerness aesthetic
-Nostalgiacore aesthetic
-Nuclear aesthetic
-Nu-Goth aesthetic
-Nymphet aesthetic
-Ocean Academia aesthetic
-Ocean Grunge aesthetic
-Old Hollywood aesthetic
-Old Memecore aesthetic
-Old Money aesthetic
-Old Web aesthetic
-Onii Kei aesthetic
-Oshare Kei aesthetic
-Otaku aesthetic
-Otherkin aesthetic
-Pachuco aesthetic
-Pale Grunge aesthetic
-Paleocore aesthetic
-Palewave aesthetic
-Paramilitary aesthetic
-Party Animal aesthetic
-Party Kei aesthetic
-Pastel aesthetic
-Pastel Academia aesthetic
-Pastel Goth aesthetic
-Pastel Punk aesthetic
-PC Music aesthetic
-Peach aesthetic
-Pearly aesthetic
-Peoplehood aesthetic
-Photorealism aesthetic
-Pink Parisian aesthetic
-Pink Princess aesthetic
-Pin-up aesthetic
-Pinterest Coquette aesthetic
-Pirate aesthetic
-Pixel Cutie aesthetic
-Pixiecore aesthetic
-Plaguecore aesthetic
-Plant Mom aesthetic
-Playboy aesthetic
-Pop aesthetic
-Pop Art aesthetic
-Pop Kei aesthetic
-Post-Apocalyptic aesthetic
-Post-Impressionism aesthetic
-Post-Punk aesthetic
-Post-rock aesthetic
-Powwow Step aesthetic
-Prairiecore aesthetic
-Pre-Raphaelite aesthetic
-Prehistoricore aesthetic
-Preppy aesthetic
-Pretty preppy aesthetic
-Pride flags aesthetic
-Princecore aesthetic
-Princesscore aesthetic
-Printcore aesthetic
-Progressive Academia aesthetic
-Psychedelica aesthetic
-Punk aesthetic
-Purism aesthetic
-Quality Tumblr aesthetic
-Queencore aesthetic
-Queer Academia aesthetic
-Queercore aesthetic
-R&B aesthetic
-Racaille aesthetic
-Ragecore aesthetic
-Rainbowcore aesthetic
-Rainy Day aesthetic
-Randumb aesthetic
-Rangercore aesthetic
-Ratcore aesthetic
-Ravencore aesthetic
-Raver aesthetic
-Real Life Super Hero aesthetic
-Realism aesthetic
-Reefwave aesthetic
-Regency aesthetic
-Regional Gothic aesthetic
-Retro-Futurism aesthetic
-Rivethead aesthetic
-Roaring 20s aesthetic
-Robotics Kid aesthetic
-Rock aesthetic
-Rockabilly aesthetic
-Rococo aesthetic
-Roguecore aesthetic
-Rollerwave aesthetic
-Roma aesthetic
-Romantic Academia aesthetic
-Romantic Goth aesthetic
-Romantic Italian aesthetic
-Romanticism aesthetic
-Rotcore aesthetic
-Royalcore aesthetic
-Rusticcore aesthetic
-Sad people aesthetic
-Salon Kei aesthetic
-Salvagepunk aesthetic
-Sandalpunk aesthetic
-Sanriocore aesthetic
-Scene aesthetic
-Schizowave aesthetic
-Schoolgirl Lifestyle aesthetic
-Science Academia aesthetic
-Scoutcore aesthetic
-Scrapbook aesthetic
-Scrapper aesthetic
-Seapunk aesthetic
-Selkiecore aesthetic
-Shabby Chic aesthetic
-Shanzhai aesthetic
-Shā mǎ tè aesthetic
-Sharpies aesthetic
-Shibuya Punk aesthetic
-Shironuri aesthetic
-Shoegaze aesthetic
-Sigilkore aesthetic
-Sizz aesthetic
-Skater aesthetic
-Skinheads aesthetic
-Sleepycore aesthetic
-Slimepunk aesthetic
-Sloanies aesthetic
-Slutcore aesthetic
-Snowdrop aesthetic
-Snow Bunny aesthetic
-Soft Apocalypse aesthetic
-Soft Grunge aesthetic
-Soft indie aesthetic
-Soft Macabre aesthetic
-Softie aesthetic
-Soggy aesthetic
-Solarpunk aesthetic
-Southern Belle aesthetic
-Southern Gothic aesthetic
-Sovietwave aesthetic
-Spacecore aesthetic
-Space Cowboy aesthetic
-Steampunk aesthetic
-Tacticool aesthetic
-Takenokozoku aesthetic
-Tanbi Kei aesthetic
-Technical Scene aesthetic
-Technocore aesthetic
-Technozen aesthetic
-Techwear aesthetic
-Teddies aesthetic
-Teenqueen aesthetic
-Teethcore aesthetic
-Terrorwave aesthetic
-Teslapunk aesthetic
-That Girl aesthetic
-Theatre Academia aesthetic
-Theatre Kids aesthetic
-Thrasher aesthetic
-Thriftcore aesthetic
-Tiki aesthetic
-Tinkercore aesthetic
-Tinycore aesthetic
-Tomboy aesthetic
-Trad Goth aesthetic
-Traditional Korean aesthetic
-Trailer Park Princess aesthetic
-Trashcore aesthetic
-Traumacore aesthetic
-Trenchcore aesthetic
-Trendercore aesthetic
-Trillwave aesthetic
-Tropical aesthetic
-Tumblewave aesthetic
-Tupinipunk aesthetic
-Tweencore aesthetic
-Twee aesthetic
-Ukiyo-e aesthetic
-Unicorncore aesthetic
-Urban Fantasy aesthetic
-Urbancore aesthetic
-Utopian Scholastic aesthetic
-VARIOUSXYZ aesthetic
-Vacation Dadcore aesthetic
-Valentine's Day aesthetic
-Vampire aesthetic
-Vaporwave aesthetic
-Vectorheart aesthetic
-Vibrant Academia aesthetic
-Victorian aesthetic
-Victorian Goth aesthetic
-Viking aesthetic
-Villagecore aesthetic
-Villaincore aesthetic
-Vintage British Sportsman aesthetic
-Vintage Parisian aesthetic
-Virgo's Tears aesthetic
-Visual Kei aesthetic
-VSCO aesthetic
-VSCO Preppy aesthetic
-Voidcore aesthetic
-Voidpunk aesthetic
-Vorticism aesthetic
-Vulture Culture aesthetic
-Wabi-Sabi aesthetic
-Waif aesthetic
-Waldorf aesthetic
-Wanderlust aesthetic
-Warmcore aesthetic
-Weathercore aesthetic
-Web Creep aesthetic
-Weeaboo aesthetic
-Weirdcore aesthetic
-Werewolf aesthetic
-Western aesthetic
-Wetcore aesthetic
-Wild Child aesthetic
-Winter aesthetic
-Winter Fairy Coquette aesthetic
-Witchy Academia aesthetic
-Witch House aesthetic
-Witchcore aesthetic
-Wizardcore aesthetic
-Wonderland aesthetic
-Woodland Goth aesthetic
-Wormcore aesthetic
-Writer Academia aesthetic
-Wuxia aesthetic
-Y2K aesthetic
-Yakuza aesthetic
-Yami Kawaii aesthetic
-Yandere aesthetic
-Yankeecore aesthetic
-Yanki aesthetic
-Youthquake aesthetic
-Yume Kawaii aesthetic
-Zombie Apocalypse aesthetic
+# huge list of artstyles from dutchalex, untested
+'70s disco aesthetic
+2-tone aesthetic
+1950's suburbia aesthetic
+2000's autumn aesthetic
+2014 girly tumblr aesthetic
+2k animecore aesthetic
+abstract tech aesthetic
+acid pixie aesthetic
+acidwave aesthetic
+adventure pulp aesthetic
+adventurecore aesthetic
+aetherpunk aesthetic
+afrofuturism aesthetic
+afro-victorian aesthetic
+after hours aesthetic
+agropeople aesthetic
+alien aesthetic
+alternative aesthetic
+americana aesthetic
+analog horror aesthetic
+american pioneers aesthetic
+american revolution aesthetic
+american thanksgiving aesthetic
+american tourist traps aesthetic
+ancient egypt aesthetic
+androgynous aesthetic
+anemoiacore aesthetic
+angelcore aesthetic
+anglocore aesthetic
+anglo gothic aesthetic
+angura kei aesthetic
+animecore aesthetic
+antique grunge aesthetic
+anti-fashion aesthetic
+arcade aesthetic
+arcadecore aesthetic
+art academia aesthetic
+arts and crafts movement aesthetic
+art deco aesthetic
+art hoe aesthetic
+art nouveau aesthetic
+asian baby girl aesthetic
+athlete aesthetic
+atompunk aesthetic
+auroracore aesthetic
+avant apocalypse aesthetic
+avant-garde aesthetic
+babycore aesthetic
+babygirl aesthetic
+back-to-school aesthetic
+baddie aesthetic
+ballet  aesthetic
+baltic violence tumblr aesthetic
+barbiecore aesthetic
+bardcore aesthetic
+baroque aesthetic
+bastardcore aesthetic
+bdsm aesthetic
+beach bunny aesthetic
+beach day aesthetic
+beatnik aesthetic
+biker aesthetic
+bimbocore aesthetic
+biohazard aesthetic
+biopunk aesthetic
+bizarro fiction aesthetic
+black-holed meme aesthetic
+bloomcore aesthetic
+bodikon aesthetic
+bohemian aesthetic
+bombacore aesthetic
+bookstore girl aesthetic
+bosozoku aesthetic
+boujee aesthetic
+breakcore aesthetic
+britpop aesthetic
+brocore aesthetic
+bronzepunk aesthetic
+bunni frog aesthetic
+bubble bujo aesthetic
+bubble goth aesthetic
+bubblegum bitch aesthetic
+bubblegum witch aesthetic
+cabincore aesthetic
+cagole aesthetic
+camp aesthetic
+campcore aesthetic
+candycore aesthetic
+cargopunk aesthetic
+carnivalcore aesthetic
+cartelcore aesthetic
+cartooncore aesthetic
+casino aesthetic
+cassette futurism aesthetic
+celtic aesthetic
+changelingcore aesthetic
+chaotic academia aesthetic
+chav aesthetic
+cheiron crush aesthetic
+cherry emoji twitter aesthetic
+chic modernist aesthetic
+cholo aesthetic
+christcore aesthetic
+christian girl autumn aesthetic
+christmas aesthetic
+chunyu aesthetic
+city pop aesthetic
+classic academia aesthetic
+classic lolita aesthetic
+classicism aesthetic
+cleancore aesthetic
+clockpunk aesthetic
+cloudcore aesthetic
+clowncore aesthetic
+club aesthetic
+club kids aesthetic
+coastal grandmother aesthetic
+cutecore aesthetic
+coffee house/cafe aesthetic
+coffinwood aesthetic
+colourful black aesthetic
+comfy/cozy aesthetic
+common white girl aesthetic
+concore aesthetic
+constructivism aesthetic
+corporate aesthetic
+corporate memphis aesthetic
+corporate punk aesthetic
+cottagecore aesthetic
+cottagegore aesthetic
+coquette academia aesthetic
+coquette aesthetic
+country aesthetic
+cozy childhood hideaway aesthetic
+c-pop aesthetic
+crackhead aesthetic
+craftcore aesthetic
+cripplepunk aesthetic
+crowcore aesthetic
+crustpunk aesthetic
+cryptid academia aesthetic
+cryptidcore aesthetic
+cubism aesthetic
+cuddle party aesthetic
+cultcore aesthetic
+cult party kei aesthetic
+cyber minimalism aesthetic
+cyberdelic aesthetic
+cyber fairy grunge aesthetic
+cyberghetto aesthetic
+cybergoth aesthetic
+cybergrunge aesthetic
+cyberneticpunk aesthetic
+cyberparadism aesthetic
+cyberpop aesthetic
+cyberprep aesthetic
+cyberpunk aesthetic
+danish pastel aesthetic
+darkerrorcore aesthetic
+dark academia aesthetic
+dark fantasy aesthetic
+dark naturalism aesthetic
+dark nautical aesthetic
+dark nymphet aesthetic
+dark paradise aesthetic
+darkcore aesthetic
+darkest academia aesthetic
+daydreampunk aesthetic
+dazecore aesthetic
+de stijl aesthetic
+deathcore aesthetic
+deathrock aesthetic
+decopunk aesthetic
+decora aesthetic
+delicate sweet aesthetic
+desertwave aesthetic
+desi romantic academia aesthetic
+dethereal aesthetic
+devilcore aesthetic
+dieselpunk aesthetic
+diner aesthetic
+dionysism aesthetic
+dolly kei aesthetic
+downtown girl aesthetic
+dracopunk aesthetic
+dragoncore aesthetic
+drain aesthetic
+dreamcore aesthetic
+dreamy aesthetic
+drugcore aesthetic
+dual kawaii aesthetic
+duckcore aesthetic
+dullcore aesthetic
+dungeon synth aesthetic
+e-boy aesthetic
+e-girl aesthetic
+earthcore aesthetic
+electropop 08 aesthetic
+electro swing aesthetic
+emo aesthetic
+english major aesthetic
+equestrian aesthetic
+erokawa aesthetic
+ethereal aesthetic
+europunk aesthetic
+expressionism aesthetic
+fairy academia aesthetic
+fairy grunge aesthetic
+fairy kei aesthetic
+fairy tale aesthetic
+fairycore aesthetic
+fanfare aesthetic
+fantasy aesthetic
+fantasy astronomy aesthetic
+fashwave aesthetic
+farmer's daughter aesthetic
+fauvism aesthetic
+fawncore aesthetic
+femboy aesthetic
+femcel weeaboo aesthetic
+femme fatale aesthetic
+feralcore aesthetic
+film noir aesthetic
+flapper aesthetic
+folk punk aesthetic
+foodie aesthetic
+forestpunk aesthetic
+french girl aesthetic
+french girly aesthetic
+frogcore aesthetic
+frutiger aero aesthetic
+funky seasons aesthetic
+furry aesthetic
+futago aesthetic
+futurism aesthetic
+gadgetpunk aesthetic
+game night aesthetic
+gamercore aesthetic
+gamine aesthetic
+geek aesthetic
+gen x soft club aesthetic
+ghostcore aesthetic
+girl-next-door aesthetic
+glam girl aesthetic
+glam rock aesthetic
+glitchcore aesthetic
+gloomcore aesthetic
+glowwave aesthetic
+goblin academia aesthetic
+goblincore aesthetic
+golden age of detective fiction aesthetic
+golden hour aesthetic
+gopnik aesthetic
+gorecore aesthetic
+gorpcore aesthetic
+goth aesthetic
+gothcore aesthetic
+gothic aesthetic
+gothic lolita aesthetic
+grandmillenial aesthetic
+grandparentcore aesthetic
+greaser aesthetic
+green academia aesthetic
+grifes aesthetic
+grindhouse aesthetic
+groundcore aesthetic
+grunge aesthetic
+gull girl aesthetic
+gurokawa aesthetic
+gyaru aesthetic
+hackercore aesthetic
+halloween aesthetic
+hallyu aesthetic
+happycore aesthetic
+hatecore aesthetic
+hauntology aesthetic
+haussmann paris aesthetic
+health goth aesthetic
+heatwave aesthetic
+heistcore aesthetic
+hellenic aesthetic
+hermaphroditus aesthetic
+hermitpunk aesthetic
+hexatron aesthetic
+hi-nrg aesthetic
+high school dream aesthetic
+hikecore aesthetic
+hime lolita aesthetic
+hip-hop aesthetic
+hipness purgatory aesthetic
+hippie aesthetic
+hipster aesthetic
+hispanicore aesthetic
+historical americana aesthetic
+holosexual aesthetic
+honeycore aesthetic
+horror aesthetic
+horror academia aesthetic
+hot topic aesthetic
+hustlewave aesthetic
+hydrogen aesthetic
+hyperpop aesthetic
+icepunk aesthetic
+imaginarium aesthetic
+impressionism aesthetic
+indie aesthetic
+indie kid aesthetic
+indie sleaze aesthetic
+indicolite aesthetic
+internet academia aesthetic
+italo disco aesthetic
+italian mafia aesthetic
+jamcore aesthetic
+japanese high school aesthetic
+jersey shore aesthetic
+joyride aesthetic
+juggalo aesthetic
+jungle grunge aesthetic
+junglecore aesthetic
+karasu zoku aesthetic
+kawaii aesthetic
+kawaii gamer aesthetic
+key west kitten aesthetic
+kidcore aesthetic
+kid science aesthetic
+kimoicore aesthetic
+kinderwhore aesthetic
+kingcore aesthetic
+king gas aesthetic
+knightcore aesthetic
+kogal aesthetic
+kuromicore aesthetic
+la sape aesthetic
+labcore aesthetic
+laborwave aesthetic
+lagenlook aesthetic
+larme kei aesthetic
+late 2000s elementary school aesthetic
+libertywave aesthetic
+light academia aesthetic
+lightcore aesthetic
+lightningwave aesthetic
+lil girl aesthetic
+liminal space aesthetic
+lit kid aesthetic
+lo-fi aesthetic
+lobotomy-chic aesthetic
+lolita aesthetic
+long island aesthetic
+lounge aesthetic
+lovecore aesthetic
+lunarpunk aesthetic
+macaute aesthetic
+mad scientist aesthetic
+magewave aesthetic
+magical girls aesthetic
+maidcore aesthetic
+mallgoth aesthetic
+mall ninja aesthetic
+maximalism aesthetic
+mcbling aesthetic
+meatcore aesthetic
+medicalcore aesthetic
+medieval aesthetic
+mtv green sky aesthetic
+memphis aesthetic
+mermaid aesthetic
+metal aesthetic
+metalcore aesthetic
+metalheart aesthetic
+metrosexual aesthetic
+miami metro aesthetic
+midwest emo aesthetic
+midwest gothic aesthetic
+military aesthetic
+milk aesthetic
+miniaturecore aesthetic
+minimalism aesthetic
+minivan rock aesthetic
+miscellaneous academia aesthetic
+mizuiro kaiwai aesthetic
+mod aesthetic
+modern brazil aesthetic
+modernism aesthetic
+mori kei aesthetic
+morute aesthetic
+mote kei aesthetic
+mulchcore aesthetic
+mushroomcore aesthetic
+mosscore aesthetic
+ms paint aesthetic
+musical academia aesthetic
+mythpunk aesthetic
+nanopunk aesthetic
+naturecore aesthetic
+nautical aesthetic
+nazi chic aesthetic
+neko aesthetic
+neo-romanism aesthetic
+neo-tokyo aesthetic
+nerd aesthetic
+nerdcore aesthetic
+new england gothic aesthetic
+new age aesthetic
+new money aesthetic
+new romantic aesthetic
+new wave aesthetic
+nihilcore aesthetic
+nintencore aesthetic
+normcore aesthetic
+northerness aesthetic
+nostalgiacore aesthetic
+nuclear aesthetic
+nu-goth aesthetic
+nymphet aesthetic
+ocean academia aesthetic
+ocean grunge aesthetic
+old hollywood aesthetic
+old memecore aesthetic
+old money aesthetic
+old web aesthetic
+onii kei aesthetic
+oshare kei aesthetic
+otaku aesthetic
+otherkin aesthetic
+pachuco aesthetic
+pale grunge aesthetic
+paleocore aesthetic
+palewave aesthetic
+paramilitary aesthetic
+party animal aesthetic
+party kei aesthetic
+pastel aesthetic
+pastel academia aesthetic
+pastel goth aesthetic
+pastel punk aesthetic
+pc music aesthetic
+peach aesthetic
+pearly aesthetic
+peoplehood aesthetic
+photorealism aesthetic
+pink parisian aesthetic
+pink princess aesthetic
+pin-up aesthetic
+pinterest coquette aesthetic
+pirate aesthetic
+pixel cutie aesthetic
+pixiecore aesthetic
+plaguecore aesthetic
+plant mom aesthetic
+playboy aesthetic
+pop aesthetic
+pop art aesthetic
+pop kei aesthetic
+post-apocalyptic aesthetic
+post-impressionism aesthetic
+post-punk aesthetic
+post-rock aesthetic
+powwow step aesthetic
+prairiecore aesthetic
+pre-raphaelite aesthetic
+prehistoricore aesthetic
+preppy aesthetic
+pretty preppy aesthetic
+pride flags aesthetic
+princecore aesthetic
+princesscore aesthetic
+printcore aesthetic
+progressive academia aesthetic
+psychedelica aesthetic
+punk aesthetic
+purism aesthetic
+quality tumblr aesthetic
+queencore aesthetic
+queer academia aesthetic
+queercore aesthetic
+r&b aesthetic
+racaille aesthetic
+ragecore aesthetic
+rainbowcore aesthetic
+rainy day aesthetic
+randumb aesthetic
+rangercore aesthetic
+ratcore aesthetic
+ravencore aesthetic
+raver aesthetic
+real life super hero aesthetic
+realism aesthetic
+reefwave aesthetic
+regency aesthetic
+regional gothic aesthetic
+retro-futurism aesthetic
+rivethead aesthetic
+roaring 20s aesthetic
+robotics kid aesthetic
+rock aesthetic
+rockabilly aesthetic
+rococo aesthetic
+roguecore aesthetic
+rollerwave aesthetic
+roma aesthetic
+romantic academia aesthetic
+romantic goth aesthetic
+romantic italian aesthetic
+romanticism aesthetic
+rotcore aesthetic
+royalcore aesthetic
+rusticcore aesthetic
+sad people aesthetic
+salon kei aesthetic
+salvagepunk aesthetic
+sandalpunk aesthetic
+sanriocore aesthetic
+scene aesthetic
+schizowave aesthetic
+schoolgirl lifestyle aesthetic
+science academia aesthetic
+scoutcore aesthetic
+scrapbook aesthetic
+scrapper aesthetic
+seapunk aesthetic
+selkiecore aesthetic
+shabby chic aesthetic
+shanzhai aesthetic
+shā mǎ tè aesthetic
+sharpies aesthetic
+shibuya punk aesthetic
+shironuri aesthetic
+shoegaze aesthetic
+sigilkore aesthetic
+sizz aesthetic
+skater aesthetic
+skinheads aesthetic
+sleepycore aesthetic
+slimepunk aesthetic
+sloanies aesthetic
+slutcore aesthetic
+snowdrop aesthetic
+snow bunny aesthetic
+soft apocalypse aesthetic
+soft grunge aesthetic
+soft indie aesthetic
+soft macabre aesthetic
+softie aesthetic
+soggy aesthetic
+solarpunk aesthetic
+southern belle aesthetic
+southern gothic aesthetic
+sovietwave aesthetic
+spacecore aesthetic
+space cowboy aesthetic
+steampunk aesthetic
+tacticool aesthetic
+takenokozoku aesthetic
+tanbi kei aesthetic
+technical scene aesthetic
+technocore aesthetic
+technozen aesthetic
+techwear aesthetic
+teddies aesthetic
+teenqueen aesthetic
+teethcore aesthetic
+terrorwave aesthetic
+teslapunk aesthetic
+that girl aesthetic
+theatre academia aesthetic
+theatre kids aesthetic
+thrasher aesthetic
+thriftcore aesthetic
+tiki aesthetic
+tinkercore aesthetic
+tinycore aesthetic
+tomboy aesthetic
+trad goth aesthetic
+traditional korean aesthetic
+trailer park princess aesthetic
+trashcore aesthetic
+traumacore aesthetic
+trenchcore aesthetic
+trendercore aesthetic
+trillwave aesthetic
+tropical aesthetic
+tumblewave aesthetic
+tupinipunk aesthetic
+tweencore aesthetic
+twee aesthetic
+ukiyo-e aesthetic
+unicorncore aesthetic
+urban fantasy aesthetic
+urbancore aesthetic
+utopian scholastic aesthetic
+variousxyz aesthetic
+vacation dadcore aesthetic
+valentine's day aesthetic
+vampire aesthetic
+vaporwave aesthetic
+vectorheart aesthetic
+vibrant academia aesthetic
+victorian aesthetic
+victorian goth aesthetic
+viking aesthetic
+villagecore aesthetic
+villaincore aesthetic
+vintage british sportsman aesthetic
+vintage parisian aesthetic
+virgo's tears aesthetic
+visual kei aesthetic
+vsco aesthetic
+vsco preppy aesthetic
+voidcore aesthetic
+voidpunk aesthetic
+vorticism aesthetic
+vulture culture aesthetic
+wabi-sabi aesthetic
+waif aesthetic
+waldorf aesthetic
+wanderlust aesthetic
+warmcore aesthetic
+weathercore aesthetic
+web creep aesthetic
+weeaboo aesthetic
+weirdcore aesthetic
+werewolf aesthetic
+western aesthetic
+wetcore aesthetic
+wild child aesthetic
+winter aesthetic
+winter fairy coquette aesthetic
+witchy academia aesthetic
+witch house aesthetic
+witchcore aesthetic
+wizardcore aesthetic
+wonderland aesthetic
+woodland goth aesthetic
+wormcore aesthetic
+writer academia aesthetic
+wuxia aesthetic
+y2k aesthetic
+yakuza aesthetic
+yami kawaii aesthetic
+yandere aesthetic
+yankeecore aesthetic
+yanki aesthetic
+youthquake aesthetic
+yume kawaii aesthetic
+zombie apocalypse aesthetic

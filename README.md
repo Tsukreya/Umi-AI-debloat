@@ -2,6 +2,8 @@
 I git pull this often and I don't want to git pull every single embedding every time, that's why this fork.
 The weird commit numbers stem from the fact that I purged the git history to not download a 1gb file every time.
 
+A lot of the wildcards come from https://gitgud.io/psuedo/wildcards_stuff, credit where credit is due.
+
 # Umi AI: A WebUI Wildcard Mod!
 
 Umi AI is a wildcard mod that allows you to create randomized characters from random species with modular clothing types. It will grow over time and eventually become the ultimate character randomizer and creator.

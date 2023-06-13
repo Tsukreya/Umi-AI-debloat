@@ -1,6 +1,6 @@
-Cthulhu's Lair, eerie, {cursed|forbidden}, ancient, {dreadful|terrifying}, tentacles, eldritch horrors, {foggy|misty}
-Dreamlands, surreal, {fathomless|infinite}, otherworldly, {mind-bending|insanity-inducing}, {hypnotic|mesmerizing}, {haunting|ghostly}, {twisted|distorted} shapes
-Necronomicon, arcane, {forbidden|taboo}, {demonic|diabolical}, occult, {ominous|sinister}, {tenebrous|dark}, {spellbinding|enchanting}
-Imperial Palace in Beijing,{ancient|historical} architecture, {imperial|royal} palace, {red|gold} decor, {dragon|phoenix} motifs, {ornate|elaborate} designs, {peaceful|serene} gardens, {traditional|cultural} influence, {statues|sculptures} of deities or historical figures, {lanterns|silk banners} hanging from buildings
-Haunted Mansion, Cobwebs, candelabras, antique furniture, {twilight|night}, {flickering|dim} lights, {creepy|eerie}, {supernatural|spooky}
-Alien Planet, Strange vegetation, weird rock formations, {dawn|dusk}, {bioluminescent|glowing}, {alien|otherworldly}, {ominous|foreboding]
+cthulhu's lair, eerie, {cursed|forbidden}, ancient, {dreadful|terrifying}, tentacles, eldritch horrors, {foggy|misty}
+dreamlands, surreal, {fathomless|infinite}, otherworldly, {mind-bending|insanity-inducing}, {hypnotic|mesmerizing}, {haunting|ghostly}, {twisted|distorted} shapes
+necronomicon, arcane, {forbidden|taboo}, {demonic|diabolical}, occult, {ominous|sinister}, {tenebrous|dark}, {spellbinding|enchanting}
+imperial palace in beijing,{ancient|historical} architecture, {imperial|royal} palace, {red|gold} decor, {dragon|phoenix} motifs, {ornate|elaborate} designs, {peaceful|serene} gardens, {traditional|cultural} influence, {statues|sculptures} of deities or historical figures, {lanterns|silk banners} hanging from buildings
+haunted mansion, cobwebs, candelabras, antique furniture, {twilight|night}, {flickering|dim} lights, {creepy|eerie}, {supernatural|spooky}
+alien planet, strange vegetation, weird rock formations, {dawn|dusk}, {bioluminescent|glowing}, {alien|otherworldly}, {ominous|foreboding]

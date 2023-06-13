@@ -1,4 +1,4 @@
 topless
-topless, {__Clothing/Tops/coat__|__Clothing/Tops/tops_mod__ __Clothing/Tops/coat__}
-__Clothing/Tops/tops_gen__
-__Clothing/Tops/tops_gen__
+topless, {__clothing/tops/coat__|__clothing/tops/tops_mod__ __clothing/tops/coat__}
+__clothing/tops/tops_gen__
+__clothing/tops/tops_gen__

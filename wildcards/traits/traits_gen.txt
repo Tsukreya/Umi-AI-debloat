@@ -1,1 +1,1 @@
-__traits/body_type__, {__traits/stomach__,|__traits/hips_thighs_legs__,|__traits/stomach__, __traits/hips_thighs_legs__,|} {__traits/kemonomimi_complete__,|__traits/supernatural_complete__,|} (__traits/hair/hair_gen__:1.2), (__Colors/Color__ eyes:1.2)
+__traits/body_type__, {__traits/stomach__,|__traits/hips_thighs_legs__,|__traits/stomach__, __traits/hips_thighs_legs__,|} {__traits/kemonomimi_complete__,|__traits/supernatural_complete__,|} (__traits/hair/hair_gen__:1.2), (__colors/color__ eyes:1.2)

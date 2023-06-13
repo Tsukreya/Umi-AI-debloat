@@ -1,27 +1,27 @@
-(art by Michael Garmash:1.2), <lora:Style_Dmmid:0.4>
-(art by Zdzisław Beksiński:1.2), limited palette, <lora:Style_Blacklight:1> <lora:Style_Dmmid:0.3>
-<lora:Style_Tab_Head:0.75> <lora:Style_Pastel_mix:0.45> <lora:Style_Mikozinn:0.25> <lora:Style_AOMv2_hard_accent:0.45>
-<lora:Style_Tab_Head:0.33> <lora:Style_Mikozinn:0.25> <lora:Style_Zankuro:0.59>
-(art by john bauer:1.2), <lora:Style_Adams:0.2> <lora:Style_Blacklight:0.4> <lora:Style_Dmmid:0.4>
-<lora:Style_Adams:0.2>, <lora:Style_Blacklight:0.8> <lora:Style_MagicLora:0.5> <lora:Style_Dmmid:0.4>
-(Paul Signac), neo-impressionism, <lora:Style_Pastel_mix:0.4> <lora:Style_Victorian_Booba:0.3> <lora:Style_Adams:0.2>
-(art by Franz Xaver Simm, Andrew Atroshenko, Agnes Cecilie), <lora:Style_Dmmid:0.45> <lora:Style_Retro:0.4>
-(art by john bauer:1.2), <lora:Style_Adams:0.6> <lora:Style_Blacklight:0.4>
-(art by john bauer:1.2), <lora:Style_Blacklight:0.4> <lora:Style_Dmmid:0.4>
-(Art by Carl Larsson:1.2), <lora:Style_Neco:0.8> <lora:Style_Pastel_mix:0.4> <lora:Style_Victorian_Booba:0.45>
-(art by justin gerard:1.2), <lora:Style_HR_Giger:0.5> <lora:Style_Dmmid:0.4> <lora:Style_Claude_Monet:1>
-(art by chihiro iwasaki:1.2), <lora:Style_Blacklight:1> <lora:Style_Nardack_v10:0.5> <lora:Style_AssistForShukezouma_v10:0.3> <lora:Style_ke-ta:0.5>
-Chinese ink painting, watercolor \(medium\), (style of postcard), (Double exposure:0.8), (by Kunisada, Agnes Cecilie), (ink splashes:1.2), <lora:Style_AssistForShukezouma_v10:0.4> <lora:Style_Gongbi:0.2>
-(by Artemisia Gentileschi), (style of D&D), warm colors, (impasto), <lora:Style_Victorian_Booba:0.1> <lora:Style_LoconLoraNardack_v10:0.4> <lora:Style_Dmmid:0.3> <lora:Style_Mikozinn:0.2>
-art by Agnes Cecile, watercolor, <lora:pastel_mix_LoCon_dim16_alpha16:0.6>
-art by Paul Gauguin, <lora:Style_Pjrmhm_Coa:0.3> <lora:Jordan_3:0.5> <lora:Style_Fairy:0.3>
-(art by Paul Signac:1.15), <lora:Style_Ononoimoko_LoHa:0.5> <lora:Style_Xiaorenshu:0.35>
-(art by Konstantin Korovin:1.2), <lora:Style_HR_Giger:0.4> <lora:Style_Crystal:0.4>
-(art by Leonor Fini:1.3), <lora:Style_Adams:0.4> <lora:Style_Petenshi:0.4> 
-art by Claude Monet <lora:Style_HR_Giger:0.5>
-art by Claude Monet <lora:style_a:0.6>
-<lora:Style_HR_Giger:0.55> <lora:Style_Hisha:0.45> <lora:Style_Sun_and_shadow:0.65>
-100 layers, impasto, faux traditional media, <lora:Style_qqqrinkappp:0.8> <lora:Style_Van_Gogh:0.6>
-art by Clyfford Still, <lora:Style_996benshi:1>
-<lora:Style_Baitanggao:1>
-glowing, <lora:Style_Shanzhagao:0.8>
+(art by michael garmash:1.2), <lora:style_dmmid:0.4>
+(art by zdzisław beksiński:1.2), limited palette, <lora:style_blacklight:1> <lora:style_dmmid:0.3>
+<lora:style_tab_head:0.75> <lora:style_pastel_mix:0.45> <lora:style_mikozinn:0.25> <lora:style_aomv2_hard_accent:0.45>
+<lora:style_tab_head:0.33> <lora:style_mikozinn:0.25> <lora:style_zankuro:0.59>
+(art by john bauer:1.2), <lora:style_adams:0.2> <lora:style_blacklight:0.4> <lora:style_dmmid:0.4>
+<lora:style_adams:0.2>, <lora:style_blacklight:0.8> <lora:style_magiclora:0.5> <lora:style_dmmid:0.4>
+(paul signac), neo-impressionism, <lora:style_pastel_mix:0.4> <lora:style_victorian_booba:0.3> <lora:style_adams:0.2>
+(art by franz xaver simm, andrew atroshenko, agnes cecilie), <lora:style_dmmid:0.45> <lora:style_retro:0.4>
+(art by john bauer:1.2), <lora:style_adams:0.6> <lora:style_blacklight:0.4>
+(art by john bauer:1.2), <lora:style_blacklight:0.4> <lora:style_dmmid:0.4>
+(art by carl larsson:1.2), <lora:style_neco:0.8> <lora:style_pastel_mix:0.4> <lora:style_victorian_booba:0.45>
+(art by justin gerard:1.2), <lora:style_hr_giger:0.5> <lora:style_dmmid:0.4> <lora:style_claude_monet:1>
+(art by chihiro iwasaki:1.2), <lora:style_blacklight:1> <lora:style_nardack_v10:0.5> <lora:style_assistforshukezouma_v10:0.3> <lora:style_ke-ta:0.5>
+chinese ink painting, watercolor \(medium\), (style of postcard), (double exposure:0.8), (by kunisada, agnes cecilie), (ink splashes:1.2), <lora:style_assistforshukezouma_v10:0.4> <lora:style_gongbi:0.2>
+(by artemisia gentileschi), (style of d&d), warm colors, (impasto), <lora:style_victorian_booba:0.1> <lora:style_loconloranardack_v10:0.4> <lora:style_dmmid:0.3> <lora:style_mikozinn:0.2>
+art by agnes cecile, watercolor, <lora:pastel_mix_locon_dim16_alpha16:0.6>
+art by paul gauguin, <lora:style_pjrmhm_coa:0.3> <lora:jordan_3:0.5> <lora:style_fairy:0.3>
+(art by paul signac:1.15), <lora:style_ononoimoko_loha:0.5> <lora:style_xiaorenshu:0.35>
+(art by konstantin korovin:1.2), <lora:style_hr_giger:0.4> <lora:style_crystal:0.4>
+(art by leonor fini:1.3), <lora:style_adams:0.4> <lora:style_petenshi:0.4> 
+art by claude monet <lora:style_hr_giger:0.5>
+art by claude monet <lora:style_a:0.6>
+<lora:style_hr_giger:0.55> <lora:style_hisha:0.45> <lora:style_sun_and_shadow:0.65>
+100 layers, impasto, faux traditional media, <lora:style_qqqrinkappp:0.8> <lora:style_van_gogh:0.6>
+art by clyfford still, <lora:style_996benshi:1>
+<lora:style_baitanggao:1>
+glowing, <lora:style_shanzhagao:0.8>

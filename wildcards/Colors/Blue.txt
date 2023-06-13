@@ -19,6 +19,6 @@ dark turquoise
 cadet blue
 dark cyan
 teal
-Azure blue
+azure blue
 alice blue	
 lightsteel blue

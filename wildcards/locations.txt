@@ -141,8 +141,8 @@ indoors, party, balloons, streamers, confetti, giant cake, happy birthday sign, 
 gym, workout equipment, treadmill, light particles
 water only, reflection, sunlight,panorama, blue sky, day,
 messy room, many garbage bags, trash, stains on wall
-fantasy city, night,unexplored region,dynamic angle, Underworld,
-cave, Crystal, jewelry, dungeon, raw crystal stone, fantasy, night,unexplored region,broken glass, dynamic angle, crystal rain,divine,Underworld,
+fantasy city, night,unexplored region,dynamic angle, underworld,
+cave, crystal, jewelry, dungeon, raw crystal stone, fantasy, night,unexplored region,broken glass, dynamic angle, crystal rain,divine,underworld,
 indoors, tatami, shouji, window shade
 rubble ruins
 fall leaves, outdoors, autumn
@@ -159,7 +159,7 @@ soccer field
 in a movie theatre
 on the bus, crowd
 venice
-Akashi Kaikyo Bridge
+akashi kaikyo bridge
 fuji mountain
 fushimi inari
 church, overgrown, vines, outdoors, moss, algae, dystopian, stained glass
