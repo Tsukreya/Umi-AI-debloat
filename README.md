@@ -1,10 +1,40 @@
 # Fork
-I git pull this often and I don't want to git pull every single embedding every time, that's why this fork.
+I git pull this often and I don't want to have to download every single embedding every time, that's why this fork.
 The weird commit numbers stem from the fact that I purged the git history to not download a 1gb file every time.
 
 The wildcards in the derrian directory come from https://gitgud.io/psuedo/wildcards_stuff, it includes some very nice recursive ones.
 
 Most of the wildcards in user directory come from wonderful users of Touhou Project AI discord, thanks guys.
+
+I advise using this with https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.
+
+Below is the usage taken directly from UmiAI's wiki:
+
+* `{a|b|c|...}` will pick one of `a`, `b`, `c`, ...
+* `{x-y$$a|b|c|...}` will pick between `x` and `y` of `a`, `b`, `c`, ...
+* `{x$$a|b|c|...}` will pick `x` of `a`, `b`, `c`, ...
+* `{x-$$a|b|c|...}` will pick atleast `x` of `a`, `b`, `c`, ...
+* `{-y$$a|b|c|...}` will pick upto `y` of `a`, `b`, `c`, ...
+* `{x%a|...}` will pick `a` with `x`% chance otherwise one of the rest
+
+* `__text__` will pick a random line from the file `text`.txt in the wildcard folder
+
+* `<[tag]>` will pick a random item from yaml files in wildcard folder with given `tag`
+* `<[tag1][tag2]>` will pick a random item from yaml files in wildcard folder with both `tag1` **and** `tag2`
+* `<[tag1|tag2]>` will pick a random item from yaml files in wildcard folder with `tag1` **or** `tag2`
+* `<[--tag]>` will pick a random item from yaml files in wildcard folder that does not have the given `tag`
+* `<file:[tag]>` will pick a random item from yaml file `file`.yaml in wildcard folder with given tag
+
+WebUI Prompt Reference
+
+* `(text)` emphasizes text by a factor of 1.1
+* `[text]` deemphasizes text by a factor of 0.9
+* `(text:x)` (de)emphasizes text by a factor of x
+* `\(` or `\)` for literal parenthesis in prompt
+* `[from:to:when]` changes prompt from `from` to `to` after `when` steps if `when` > 1 or after the fraction of `current step/total steps` is bigger than `when`
+* `[a|b|c|...]` cycles the prompt between the given options each step
+* `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2` can be modified by adding `:x` like `text1:x AND text2:y`
+
 
 # Umi AI: A WebUI Wildcard Mod!
 
