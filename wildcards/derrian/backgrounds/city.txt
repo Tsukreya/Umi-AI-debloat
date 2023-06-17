@@ -1,0 +1,15 @@
+city, buildings, skyline, {morning|night}, {rainy|foggy}, {bustling|dynamic}, {cosmopolitan|modern}
+gothic cathedral, towering spires, {stained glass windows|elaborate carvings}, {dimly lit|candlelit} interior, {incense-scented|musty} atmosphere, {gloomy|eerie} ambiance
+gothic cathedral, ornate arches, {stone gargoyles|marble statues}, {flickering candles|golden candelabras}, {shadowy|illuminated} corners, {mournful|haunting} vibe
+gothic cathedral, grand vaulted ceilings, {organ music|chanting choir}, {dusty tapestries|intricate mosaics}, {cobbled floors|polished marble}, {mystical|ethereal} energy
+gothic cathedral, pointed arches, {crimson velvet|shimmering silk} drapes, {candlelit alcoves|elaborate frescoes}, {hushed|whispering} whispers, {ghostly|ethereal} presence
+gothic cathedral, flying buttresses, {towering columns|ornate capitals}, {cobweb-covered|gleaming brass} chandeliers, {shrouded|radiant} light, {enchanting|otherworldly} atmosphere
+{industrial|mechanical} cityscape, {smoky|foggy} {streets|alleys}, towering {metal|iron} structures, {rusty|worn} pipes and gears, {glimmering|reflected} {lights|neon signs}, {steaming|churning} {smoke|steam}, {mystical|magical} {energy|auras}
+cityscape, {nighttime|dawn}, {futuristic|modern}, {neon lights|glowing skyscrapers}, {crowded|busy}, {sleek|streamlined}, {technological|innovative}
+{gothic|medieval} cathedral, {stained glass|colored glass}, {high ceilings|tall arches}, {candles|chandeliers}, {gargoyles|stone carvings}, {dimly lit|shadowy}, {dramatic|majestic} atmosphere
+urban nightscape, city skyline, illuminated buildings, {night|dusk}, {dramatic|edgy}, {vibrant|colorful}, {futuristic|modern}
+futuristic city, skyscrapers, neon lights, flying cars, {night|dawn}, {sleek|modern}, {energetic|dynamic}, {cyberpunk|dystopian}
+cyber city, holographic billboards, advanced technology, {night|dawn}, {slick|futuristic}, {energetic|dynamic}, {cyberpunk|dystopian}
+city, {nighttime|evening}, {bright|vibrant}, {dynamic|energetic}, {illuminated|lit up}, {cosmopolitan|modern}
+city, buildings, skyline, {morning|night}, {rainy|foggy}, {bustling|dynamic}, {cosmopolitan|modern}
+city, skyscrapers, streets, {daytime|nighttime}, {rainy|foggy}, {hustle and bustle|chaotic}, {gritty|industrial}

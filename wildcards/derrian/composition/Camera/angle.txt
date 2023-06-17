@@ -1,0 +1,10 @@
+dutch angle
+fisheye
+from above
+from below
+from behind
+from side
+pov
+atmospheric perspective
+vanishing point
+perspective

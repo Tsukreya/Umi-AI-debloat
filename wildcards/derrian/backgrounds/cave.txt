@@ -1,0 +1,3 @@
+{dark|ominous} underground cave, {dripping|stalactites|stalagmites}, {mysterious|eerie|spooky} atmosphere, {hidden|secret} tunnel, {faint|dim} light source, {echoing|distant} sounds, {underground river|subterranean lake}, {moist|damp} walls
+cavern, rocks, stalactites, {twilight|dark}, {moist|damp}, {mysterious|enchanting}, {spooky|eerie}
+cave,{magical|enchanting}, {underground|cavernous}, {crystals|glowing gems}, {mysterious|hidden} {passages|tunnels}, {dripping|flowing} {water|streams}, {bioluminescent|glowing} {fungus|mushrooms}, {sparkling|shimmering} {rocks|minerals}, {fantasy|mythical} atmosphere, {adventure|exploration} vibe, {ethereal|otherworldly} ambiance, {darkness|shadows}

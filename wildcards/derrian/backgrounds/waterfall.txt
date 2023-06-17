@@ -1,0 +1,8 @@
+waterfall, {nighttime|evening}, {glowing|luminous}, {powerful|thundering}, {serene|tranquil}, {starlit|twinkling}
+waterfall, rocks, moss, {morning|evening}, {misty|hazy}, {serene|calm}, {picturesque|scenic}
+waterfall, canyon, cliffs, {morning|evening}, {clear|sunny}, {dramatic|awe-inspiring}, {picturesque|scenic}
+waterfall, pool, rocks, {morning|evening}, {clear|sunny}, {refreshing|invigorating}, {picturesque|scenic}
+waterfall, meadow, flowers, {morning|evening}, {clear|sunny}, {peaceful|tranquil}, {picturesque|scenic}
+waterfall, cliff, ocean, {morning|evening}, {clear|sunny}, {dramatic|awe-inspiring}, {picturesque|scenic}
+waterfall, desert, rocks, {morning|evening}, {clear|sunny}, {harsh|unforgiving}, {picturesque|scenic}
+waterfall, {nighttime|night}, {moonlit|moonlight}, {serene|tranquil}, {calm|peaceful}, {dark|dimly lit}, {starlit|starry}, {flowing|cascade}, {rocky|boulder-strewn}, {surreal|dreamlike}, {water mist|spray}, {silhouette|shadow}
