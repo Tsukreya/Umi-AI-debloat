@@ -1,10 +1,10 @@
-{__clothing/cloth_print__|__colors/color__|} panties
-{__clothing/cloth_print__|__colors/color__|} lowleg panties
-{__clothing/cloth_print__|__colors/color__|} highleg panties
-{__clothing/cloth_print__|__colors/color__|} bow panties
-{__clothing/cloth_print__|__colors/color__|} frilled panties
-{__clothing/cloth_print__|__colors/color__|} side-tie panties
-{__clothing/cloth_print__|__colors/color__|} string panties
-{__clothing/cloth_print__|__colors/color__|} lace panties
-{__clothing/cloth_print__|__colors/color__|} lace-trimmed panties
-{__clothing/cloth_print__|__colors/color__|} striped panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} lowleg panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} highleg panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} bow panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} frilled panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} side-tie panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} string panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} lace panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} lace-trimmed panties
+{__derrian/clothing/cloth_print__|__derrian/colors/color__|} striped panties

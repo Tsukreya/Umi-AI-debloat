@@ -1,13 +1,13 @@
-{__colors/color__|} dirndl
-{__colors/color__|} dress
-{__colors/color__|} china dress
-{__colors/color__|} japanese clothes
-{__colors/color__|} kimono
-{__colors/color__|} layered kimono
-{__colors/color__|} short kimono
-{__colors/color__|} chinese clothes
-{__colors/color__|} hanfu
-{__colors/color__|} yukata
-{__colors/color__|} korean clothes
-{__colors/color__|} hanbok
-{__colors/color__|} vietnamese dress
+{__derrian/colors/color__|} dirndl
+{__derrian/colors/color__|} dress
+{__derrian/colors/color__|} china dress
+{__derrian/colors/color__|} japanese clothes
+{__derrian/colors/color__|} kimono
+{__derrian/colors/color__|} layered kimono
+{__derrian/colors/color__|} short kimono
+{__derrian/colors/color__|} chinese clothes
+{__derrian/colors/color__|} hanfu
+{__derrian/colors/color__|} yukata
+{__derrian/colors/color__|} korean clothes
+{__derrian/colors/color__|} hanbok
+{__derrian/colors/color__|} vietnamese dress
