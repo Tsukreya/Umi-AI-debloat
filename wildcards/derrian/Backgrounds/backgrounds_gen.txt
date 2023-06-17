@@ -1,0 +1,13 @@
+__Backgrounds/ancient_ruins__
+__Backgrounds/cave__
+__Backgrounds/city__
+__Backgrounds/countryside__
+__Backgrounds/desert__
+__Backgrounds/forest__
+__Backgrounds/garden__
+__Backgrounds/misc__
+__Backgrounds/mountain__
+__Backgrounds/ocean__
+__Backgrounds/swamp__
+__Backgrounds/tundra__
+__Backgrounds/waterfall__

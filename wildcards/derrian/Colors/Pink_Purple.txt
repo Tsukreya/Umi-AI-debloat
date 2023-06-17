@@ -1,0 +1,15 @@
+pink
+medium violet red
+deeppink
+hotpink
+pale violet red
+light pink
+dark pink
+magenta
+violet
+plum
+dark violet
+darkmagenta
+purple
+indigo
+blue violet

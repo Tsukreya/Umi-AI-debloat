@@ -1,0 +1,9 @@
+__Colors/black_gray__
+__Colors/blue__
+__Colors/brown__
+__Colors/green__
+__Colors/orange__
+__Colors/pink_purple__
+__Colors/red__
+__Colors/white__
+__Colors/yellow__

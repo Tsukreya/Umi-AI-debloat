@@ -1,0 +1,10 @@
+black
+gray
+dark gray
+dim gray
+silver
+light gray
+gainsboro	
+lightslate gray
+slate gray	
+dark late gray

@@ -1,0 +1,9 @@
+desert, oasis, sand dunes, {morning|evening}, {clear|sunny}, {peaceful|serene}, {arid|sandy}
+{red|orange|black} sky, {cracked|barren} earth, {smoldering|burning} rocks, {fiery|infernal} pits, {demonic|malevolent} energy, {eternal|endless} suffering, {twisted|corrupted} terrain, {desolate|forlorn} landscape
+{Hot|Dry}, {Barren|Empty} Desert, {Sand Dunes|Rocky Terrain}, {Mysterious|Otherworldly} Aura, {Distant Mountains|Endless Horizon}, {Cactus|Scattered Flora}, {Golden Hour|Harsh Shadows} Lighting, {Dusty|Hazy} Atmosphere
+Desert Dunes, Sandy landscape, arid climate, {midday|sunset}, {surreal|otherworldly}, {vibrant|fiery}, {harsh|barren}
+Salt Flats, salt, rocks, sky, {dawn|dusk}, {clear|sunny}, {vast|endless}, {minimal|simple}
+desert, oasis, sand dunes, {morning|evening}, {clear|sunny}, {peaceful|serene}, {arid|sandy}
+desert, sand dunes, cactus, {sunrise|sunset}, {hot|dry}, {isolated|barren}, {mysterious|otherworldly}
+Canyon, rocky, rugged terrain, {sunrise|sunset}, {dry|arid}, {majestic|stunning}, {barren|desolate}
+savannah, wildlife, {afternoon|sunset}, {adventurous|thrilling}, {bushes|grasslands}, {herds of animals|lone predators}, {dusty roads|wilderness}, {natural|untamed}

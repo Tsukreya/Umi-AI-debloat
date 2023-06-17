@@ -1,0 +1,2 @@
+{__Clothing/Tops/shirt__|__Clothing/Tops/tops_mod__ __Clothing/Tops/shirt__}
+{__Clothing/Tops/shirt__|__Clothing/Tops/tops_mod__ __Clothing/Tops/shirt__}, {__Clothing/Tops/coat__|__Clothing/Tops/tops_mod__ __Clothing/Tops/coat__}

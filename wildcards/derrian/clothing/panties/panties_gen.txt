@@ -1,0 +1,10 @@
+{__clothing/cloth_print__|__Colors/Color__|} panties
+{__clothing/cloth_print__|__Colors/Color__|} lowleg panties
+{__clothing/cloth_print__|__Colors/Color__|} highleg panties
+{__clothing/cloth_print__|__Colors/Color__|} bow panties
+{__clothing/cloth_print__|__Colors/Color__|} frilled panties
+{__clothing/cloth_print__|__Colors/Color__|} side-tie panties
+{__clothing/cloth_print__|__Colors/Color__|} string panties
+{__clothing/cloth_print__|__Colors/Color__|} lace panties
+{__clothing/cloth_print__|__Colors/Color__|} lace-trimmed panties
+{__clothing/cloth_print__|__Colors/Color__|} striped panties

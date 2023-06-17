@@ -1,0 +1,34 @@
+__Colors/Color__ hair, __traits/hair/Hair_length__
+__Colors/Color__ hair, __traits/hair/Hairstyle__
+__Colors/Color__ hair, __traits/hair/tied_hair__
+__Colors/Color__ hair, __traits/hair/Hair_texture__
+__Colors/Color__ hair, __traits/hair/Hair_front__
+__traits/hair/Hair_length__, __traits/hair/Haircol_mix__
+__traits/hair/Hairstyle__, __traits/hair/Haircol_mix__
+__traits/hair/tied_hair__, __traits/hair/Haircol_mix__
+__traits/hair/Hair_texture__, __traits/hair/Haircol_mix__
+__traits/hair/Hair_front__, __traits/hair/Haircol_mix__
+__Colors/Color__ hair, __traits/hair/Hair_length__, __traits/hair/Hairstyle__
+__Colors/Color__ hair, __traits/hair/Hair_length__, __traits/hair/tied_hair__
+__Colors/Color__ hair, __traits/hair/Hair_length__, __traits/hair/Hair_texture__
+__Colors/Color__ hair, __traits/hair/Hairstyle__, __traits/hair/Hair_texture__
+__Colors/Color__ hair, __traits/hair/Hairstyle__, __traits/hair/Hair_front__
+__Colors/Color__ hair, __traits/hair/tied_hair__, __traits/hair/Hair_texture__
+__Colors/Color__ hair, __traits/hair/tied_hair__, __traits/hair/Hair_front__
+__Colors/Color__ hair, __traits/hair/Hair_texture__, __traits/hair/Hair_front__
+__traits/hair/Hair_length__, __traits/hair/Hairstyle__, __traits/hair/Haircol_mix__
+__traits/hair/Hair_length__, __traits/hair/tied_hair__, __traits/hair/Haircol_mix__
+__traits/hair/Hair_length__, __traits/hair/Hair_texture__, __traits/hair/Haircol_mix__
+__traits/hair/Hairstyle__, __traits/hair/Hair_texture__, __traits/hair/Haircol_mix__
+__traits/hair/Hairstyle__, __traits/hair/Hair_front__, __traits/hair/Haircol_mix__
+__traits/hair/tied_hair__, __traits/hair/Hair_texture__, __traits/hair/Haircol_mix__
+__traits/hair/tied_hair__, __traits/hair/Hair_front__, __traits/hair/Haircol_mix__
+__traits/hair/Hair_texture__, __traits/hair/Hair_front__, __traits/hair/Haircol_mix__
+__Colors/Color__ hair, __traits/hair/Hair_length__, __traits/hair/Hairstyle__, __traits/hair/Hair_texture__
+__Colors/Color__ hair, __traits/hair/Hair_length__, __traits/hair/tied_hair__, __traits/hair/Hair_texture__
+__Colors/Color__ hair, __traits/hair/Hairstyle__, __traits/hair/Hair_texture__, __traits/hair/Hair_front__
+__Colors/Color__ hair, __traits/hair/tied_hair__, __traits/hair/Hair_texture__, __traits/hair/Hair_front__
+__traits/hair/Hair_length__, __traits/hair/Hairstyle__, __traits/hair/Hair_texture__, __traits/hair/Haircol_mix__
+__traits/hair/Hair_length__, __traits/hair/tied_hair__, __traits/hair/Hair_texture__, __traits/hair/Haircol_mix__
+__traits/hair/Hairstyle__, __traits/hair/Hair_texture__, __traits/hair/Hair_front__, __traits/hair/Haircol_mix__
+__traits/hair/tied_hair__, __traits/hair/Hair_texture__, __traits/hair/Hair_front__, __traits/hair/Haircol_mix__
