@@ -1,7 +1,0 @@
-__composition/camera/angle__
-__composition/camera/focus__
-__composition/camera/framing__
-__composition/camera/angle__,__composition/camera/focus__
-__composition/camera/angle__,__composition/camera/framing__
-__composition/camera/focus__,__composition/camera/framing__
-__composition/camera/angle__,__composition/camera/focus__,__composition/camera/framing__
