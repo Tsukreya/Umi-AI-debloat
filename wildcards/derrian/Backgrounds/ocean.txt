@@ -1,24 +1,24 @@
 beach, ocean, sand, {sunrise|sunset}, {clear|sunny}, {relaxing|serene}, {vibrant|colorful}
 island, beach, ocean, {morning|evening}, {cloudy|stormy}, {secluded|isolated}, {idyllic|tropical}
-Beach, {nighttime|moonlit}, {calm|tranquil}, {serene|peaceful}, {romantic|dreamy}, {starlit|glowing}
-Beach, ocean, sand, {sunrise|sunset}, {clear|sunny}, {relaxing|serene}, {vibrant|colorful}
-Beach, rocks, tide pools, {morning|evening}, {foggy|hazy}, {wild|untamed}, {picturesque|scenic}
-Beach, cliffs, waves, {morning|evening}, {clear|sunny}, {dramatic|awe-inspiring}, {picturesque|scenic}
-Beach, dunes, sea grass, {morning|evening}, {clear|sunny}, {peaceful|tranquil}, {picturesque|scenic}
-Beach, pier, seagulls, {morning|evening}, {cloudy|stormy}, {bustling|dynamic}, {picturesque|scenic}
-Beach, palm trees, hammocks, {morning|evening}, {clear|sunny}, {idyllic|tropical}, {relaxing|serene}
-Beach, lighthouse, rocky coastline, {morning|evening}, {foggy|hazy}, {picturesque|scenic}, {historical|nostalgic}
-Beach, shipwreck, coral reef, {morning|evening}, {clear|sunny}, {mysterious|ethereal}, {picturesque|scenic}
-Beach, fire pit, starry sky, {night|twilight}, {clear|sunny}, {romantic|cozy}, {picturesque|scenic}
-Beach Cliff, beach, cliff, ocean, {morning|evening}, {cloudy|stormy}, {dramatic|striking}, {picturesque|scenic}
+beach, {nighttime|moonlit}, {calm|tranquil}, {serene|peaceful}, {romantic|dreamy}, {starlit|glowing}
+beach, ocean, sand, {sunrise|sunset}, {clear|sunny}, {relaxing|serene}, {vibrant|colorful}
+beach, rocks, tide pools, {morning|evening}, {foggy|hazy}, {wild|untamed}, {picturesque|scenic}
+beach, cliffs, waves, {morning|evening}, {clear|sunny}, {dramatic|awe-inspiring}, {picturesque|scenic}
+beach, dunes, sea grass, {morning|evening}, {clear|sunny}, {peaceful|tranquil}, {picturesque|scenic}
+beach, pier, seagulls, {morning|evening}, {cloudy|stormy}, {bustling|dynamic}, {picturesque|scenic}
+beach, palm trees, hammocks, {morning|evening}, {clear|sunny}, {idyllic|tropical}, {relaxing|serene}
+beach, lighthouse, rocky coastline, {morning|evening}, {foggy|hazy}, {picturesque|scenic}, {historical|nostalgic}
+beach, shipwreck, coral reef, {morning|evening}, {clear|sunny}, {mysterious|ethereal}, {picturesque|scenic}
+beach, fire pit, starry sky, {night|twilight}, {clear|sunny}, {romantic|cozy}, {picturesque|scenic}
+beach cliff, beach, cliff, ocean, {morning|evening}, {cloudy|stormy}, {dramatic|striking}, {picturesque|scenic}
 beach, ocean, sand, {sunrise|sunset}, {clear|sunny}, {relaxing|serene}, {vibrant|colorful}
 island, beach, ocean, {morning|evening}, {cloudy|stormy}, {secluded|isolated}, {idyllic|tropical}
 beach, tropical, palm trees, {sunrise|sunset}, {clear|sunny}, {serene|tranquil}, {idyllic|relaxing}
 cliffs, ocean, rocks, {morning|evening}, {clear|sunny}, {dramatic|awe-inspiring}, {picturesque|scenic}
-Sunken City, underwater, {decaying|ruined}, oppressive, {ghastly|horrific}, slimy, {cursed|damned}, {whispering|shrouded} voices
+sunken city, underwater, {decaying|ruined}, oppressive, {ghastly|horrific}, slimy, {cursed|damned}, {whispering|shrouded} voices
 tropical island, {noon|afternoon}, {clear|sunny}, {exotic|vibrant}, {turquoise water|white sand}, {palm trees|lush foliage}, {relaxing|adventurous}
 ocean, {daytime|sunset}, {clear|sunny}, {relaxing|serene}, {gentle waves|breezy wind}, {rocky cliffs|sandy beach}, {coastal|picturesque}
-Coastal Cliffs, Ocean view, rugged coastline, {clear|sunny}, {dramatic|striking}, {serene|calm}, {earthy|natural}
-Underwater World, Coral reefs, schools of fish, {day|night}, {shimmering|glimmering}, {serene|tranquil}, {mysterious|unexplored}
-Coral Reef, coral, fish, ocean, {morning|evening}, {clear|sunny}, {colorful|vibrant}, {exotic|tropical}
+coastal cliffs, ocean view, rugged coastline, {clear|sunny}, {dramatic|striking}, {serene|calm}, {earthy|natural}
+underwater world, coral reefs, schools of fish, {day|night}, {shimmering|glimmering}, {serene|tranquil}, {mysterious|unexplored}
+coral reef, coral, fish, ocean, {morning|evening}, {clear|sunny}, {colorful|vibrant}, {exotic|tropical}
 cliffs, ocean, rocks, {morning|evening}, {clear|sunny}, {dramatic|awe-inspiring}, {picturesque|scenic}

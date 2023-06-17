@@ -1,12 +1,12 @@
-{__Colors/Color__|} shorts under skirt
-{__Colors/Color__|} skirt
-{__Colors/Color__|} bubble skirt
-{__Colors/Color__|} high-waist skirt
-{__Colors/Color__|} high-low skirt
-{__Colors/Color__|} long skirt
-{__Colors/Color__|} lowleg skirt
-{__Colors/Color__|} microskirt
-{__Colors/Color__|} miniskirt
-{__Colors/Color__|} plaid skirt
-{__Colors/Color__|} pleated skirt
-{__Colors/Color__|} suspender skirt
+{__colors/color__|} shorts under skirt
+{__colors/color__|} skirt
+{__colors/color__|} bubble skirt
+{__colors/color__|} high-waist skirt
+{__colors/color__|} high-low skirt
+{__colors/color__|} long skirt
+{__colors/color__|} lowleg skirt
+{__colors/color__|} microskirt
+{__colors/color__|} miniskirt
+{__colors/color__|} plaid skirt
+{__colors/color__|} pleated skirt
+{__colors/color__|} suspender skirt
