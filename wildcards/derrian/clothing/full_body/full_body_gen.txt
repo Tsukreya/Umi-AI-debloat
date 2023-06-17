@@ -1,5 +1,5 @@
-__clothing/full_body/swimwear__
-__clothing/full_body/sportswear__
-__clothing/full_body/traditional__
-__clothing/full_body/uniforms__
-__clothing/full_body/other__
+__derrian/clothing/full_body/swimwear__
+__derrian/clothing/full_body/sportswear__
+__derrian/clothing/full_body/traditional__
+__derrian/clothing/full_body/uniforms__
+__derrian/clothing/full_body/other__

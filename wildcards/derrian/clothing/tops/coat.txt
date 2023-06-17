@@ -1,11 +1,11 @@
-{__colors/color__|} coat
-{__colors/color__|} fur coat
-{__colors/color__|} fur-trimmed coat
-{__colors/color__|} duffel coat
-{__colors/color__|} long coat
-{__colors/color__|} peacoat
-{__colors/color__|} raincoat
-{__colors/color__|} winter coat
-{__colors/color__|} jacket
-{__colors/color__|} cropped jacket
-{__colors/color__|} sukajan
+{__derrian/colors/color__|} coat
+{__derrian/colors/color__|} fur coat
+{__derrian/colors/color__|} fur-trimmed coat
+{__derrian/colors/color__|} duffel coat
+{__derrian/colors/color__|} long coat
+{__derrian/colors/color__|} peacoat
+{__derrian/colors/color__|} raincoat
+{__derrian/colors/color__|} winter coat
+{__derrian/colors/color__|} jacket
+{__derrian/colors/color__|} cropped jacket
+{__derrian/colors/color__|} sukajan

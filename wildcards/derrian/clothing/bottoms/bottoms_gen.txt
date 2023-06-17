@@ -1,2 +1,2 @@
-{__clothing/bottoms/pants__|__clothing/bottoms/bottoms_mod__, __clothing/bottoms/pants__}
-{__clothing/bottoms/skirts__, {__clothing/panties/panties_gen__|}|__clothing/bottoms/bottoms_mod__, __clothing/bottoms/skirts__, {__clothing/panties/panties_gen__|}}
+{__derrian/clothing/bottoms/pants__|__derrian/clothing/bottoms/bottoms_mod__, __derrian/clothing/bottoms/pants__}
+{__derrian/clothing/bottoms/skirts__, {__derrian/clothing/panties/panties_gen__|}|__derrian/clothing/bottoms/bottoms_mod__, __derrian/clothing/bottoms/skirts__, {__derrian/clothing/panties/panties_gen__|}}

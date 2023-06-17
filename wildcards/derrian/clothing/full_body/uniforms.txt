@@ -1,13 +1,13 @@
-{__colors/color__|} playboy bunny
-{__colors/color__|} miko
-{__colors/color__|} nontraditional miko
-{__colors/color__|} bikini armor
-{__colors/color__|} armor
-{__colors/color__|} cheerleader
-{__colors/color__|} gym uniform
-{__colors/color__|} maid uniform
-{__colors/color__|} military uniform
-{__colors/color__|} pilot suit
-{__colors/color__|} school uniform
-{__colors/color__|} serafuku
-{__colors/color__|} waitress
+{__derrian/colors/color__|} playboy bunny
+{__derrian/colors/color__|} miko
+{__derrian/colors/color__|} nontraditional miko
+{__derrian/colors/color__|} bikini armor
+{__derrian/colors/color__|} armor
+{__derrian/colors/color__|} cheerleader
+{__derrian/colors/color__|} gym uniform
+{__derrian/colors/color__|} maid uniform
+{__derrian/colors/color__|} military uniform
+{__derrian/colors/color__|} pilot suit
+{__derrian/colors/color__|} school uniform
+{__derrian/colors/color__|} serafuku
+{__derrian/colors/color__|} waitress

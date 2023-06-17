@@ -1,4 +1,4 @@
 barefoot
-__clothing/foot_and_legwear/footwear__
-__clothing/foot_and_legwear/legwear__
-__clothing/foot_and_legwear/legwear__, __clothing/foot_and_legwear/footwear__
+__derrian/clothing/foot_and_legwear/footwear__
+__derrian/clothing/foot_and_legwear/legwear__
+__derrian/clothing/foot_and_legwear/legwear__, __derrian/clothing/foot_and_legwear/footwear__
