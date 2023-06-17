@@ -1,0 +1,7 @@
+__derrian/composition/camera/angle__
+__derrian/composition/camera/focus__
+__derrian/composition/camera/framing__
+__derrian/composition/camera/angle__,__derrian/composition/camera/focus__
+__derrian/composition/camera/angle__,__derrian/composition/camera/framing__
+__derrian/composition/camera/focus__,__derrian/composition/camera/framing__
+__derrian/composition/camera/angle__,__derrian/composition/camera/focus__,__derrian/composition/camera/framing__
