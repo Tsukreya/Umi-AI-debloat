@@ -3,6 +3,7 @@ I git pull this often and I don't want to git pull every single embedding every 
 The weird commit numbers stem from the fact that I purged the git history to not download a 1gb file every time.
 
 The wildcards in the derrian directory come from https://gitgud.io/psuedo/wildcards_stuff, it includes some very nice recursive ones.
+
 Most of the wildcards in user directory come from wonderful users of Touhou Project AI discord, thanks guys.
 
 # Umi AI: A WebUI Wildcard Mod!
