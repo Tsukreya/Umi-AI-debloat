@@ -1,2 +1,0 @@
-__clothing/tops/tops_gen__, __clothing/bottoms/bottoms_gen__{, __clothing/clothing_gen_helper__|}
-__clothing/full_body/full_body_gen__{, __clothing/clothing_gen_helper__|}

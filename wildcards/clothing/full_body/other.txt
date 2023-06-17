@@ -1,5 +1,0 @@
-{__colors/color__|} tunic
-{__colors/color__|} bodystocking
-{__colors/color__|} robe
-{__colors/color__|} bathrobe
-{__colors/color__|} romper

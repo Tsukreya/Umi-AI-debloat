@@ -1,3 +1,0 @@
-__clothing/accessories/accessories_gen__
-__clothing/foot_and_legwear/foot_and_legwear_gen__
-__clothing/accessories/accessories_gen__, __clothing/foot_and_legwear/foot_and_legwear_gen__

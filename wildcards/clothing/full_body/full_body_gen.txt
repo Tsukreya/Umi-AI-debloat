@@ -1,5 +1,0 @@
-__clothing/full_body/swimwear__
-__clothing/full_body/sportswear__
-__clothing/full_body/traditional__
-__clothing/full_body/uniforms__
-__clothing/full_body/other__
