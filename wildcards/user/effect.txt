@@ -1,0 +1,22 @@
+(sparkle:1.3401),
+petals
+depth of field
+(motion lines:1.3401), (blurry:1.1025), dynamic pose, (intense angle:1.1025),
+foreshortening
+lens flare
+jpeg artifacts
+backlighting
+silhouette
+motion blur
+chromatic aberration
+(bokeh:1.62889),
+film grain
+multiple monochrome
+caustics lighting
+dithering
+(lens flare abuse:1.4071),
+glowing light
+god rays
+reflection light
+ray tracing
+chromatic aberration abuse
