@@ -1,11 +1,11 @@
 mountain, landscape, trees, {sunrise|sunset}, {cloudy|stormy}, {awe-inspiring|grand}, {vast|unspoiled|untouched}
-Snowy Mountains, jagged peaks, pink and purple sunset, frozen river, {blizzard|snowstorm}, {crisp|chilly} air, {dusk|evening}
-Snowy Mountains, snowdrifts, starry night sky, white pine forest, {blustery|whipping} winds, {frosty|icy} terrain, {midnight|late night}
-Snowy Mountains, icy cliffs, bright blue skies, frozen waterfall, {avalanche warnings|dangerous conditions}, {refreshing|bracing} breeze, {morning|sunrise}
-Snowy Mountains, powdery snow, red and orange sunrise, rocky outcroppings, {sleet|freezing rain}, {nippy|frigid} temperatures, {daytime|day}
-Snowy Mountains, frozen lake, fluffy clouds, snow-covered trees, {snowdrifts|drifting snow}, {numbing|biting} cold, {twilight|dawn}
-Volcano, {Explosive|Erupting} {Mountain|Peak}, {Crater|Caldera}, {Magma|Bubbling magma}, {Smoke|Ash|Steam}, {Red|Orange|Yellow|Black} {Rocks|Boulders}, {Desolate|Ash-covered} {Landscape}, {Rugged|Rocky} {Terrain}, {Red|Orange|Yellow} {Sunrise|Sunset} {Glow|Light}, {Stormy|Thunderous} Skies
-Volcano, {smoking|active}, {rocky|rugged|barren} terrain, {billowing|puffing} smoke, {red|orange|yellow} lava, {sunrise|sunset} skies, {cloudy|stormy} weather
+snowy mountains, jagged peaks, pink and purple sunset, frozen river, {blizzard|snowstorm}, {crisp|chilly} air, {dusk|evening}
+snowy mountains, snowdrifts, starry night sky, white pine forest, {blustery|whipping} winds, {frosty|icy} terrain, {midnight|late night}
+snowy mountains, icy cliffs, bright blue skies, frozen waterfall, {avalanche warnings|dangerous conditions}, {refreshing|bracing} breeze, {morning|sunrise}
+snowy mountains, powdery snow, red and orange sunrise, rocky outcroppings, {sleet|freezing rain}, {nippy|frigid} temperatures, {daytime|day}
+snowy mountains, frozen lake, fluffy clouds, snow-covered trees, {snowdrifts|drifting snow}, {numbing|biting} cold, {twilight|dawn}
+volcano, {explosive|erupting} {mountain|peak}, {crater|caldera}, {magma|bubbling magma}, {smoke|ash|steam}, {red|orange|yellow|black} {rocks|boulders}, {desolate|ash-covered} {landscape}, {rugged|rocky} {terrain}, {red|orange|yellow} {sunrise|sunset} {glow|light}, {stormy|thunderous} skies
+volcano, {smoking|active}, {rocky|rugged|barren} terrain, {billowing|puffing} smoke, {red|orange|yellow} lava, {sunrise|sunset} skies, {cloudy|stormy} weather
 mountain covered in {sakura|cherry blossom} trees in bloom, {pink|white} petals falling from the trees, {dawn|dusk} lighting, serene and enchanting atmosphere
 mountain covered in {sakura|cherry blossom} trees in bloom, misty and foggy atmosphere, {morning|evening} lighting, mystical and mysterious mood.
 mountain with a {creek|stream} running through it, {sakura|cherry blossom} trees in bloom, {afternoon|evening} lighting, tranquil and soothing ambiance
@@ -16,13 +16,13 @@ mountain with a garden of {sakura|cherry blossom} trees in bloom, {midday|aftern
 mountain with a village of {sakura|cherry blossom} trees in bloom, {morning|evening} lighting, charming and quaint ambiance
 mountain peak covered in {sakura|cherry blossom} trees in bloom, {dawn|dusk} lighting, ethereal and enchanting mood
 mountain peak, {sunrise|sunset}, {majestic|awe-inspiring}, {isolated|remote}, {crisp|refreshing} air, {panoramic|breathtaking} views, {adventurous|thrilling}
-Mountain, {sunrise|sunset|daytime|nighttime}, {bright sun|overcast|stormy}, {glowing|twinkling|harsh}, {majestic|awe-inspiring|isolated|vibrant}, {snow-capped|rocky}, {crisp air|gentle breeze|strong winds}
-Mountain Peak, Rocky terrain, {sunrise|sunset}, {majestic|grandiose}, {misty|ethereal}, {sublime|awe-inspiring}
-Snowy Wonderland, Snow-capped mountains, winter wonderland, {dawn|midday}, {frosty|chilly}, {sparkling|glittery}, {ethereal|magical}
-Mountain, {nighttime|evening}, {starry|twinkling}, {majestic|grand}, {peaceful|serene}, {silhouetted|shadowy}
+mountain, {sunrise|sunset|daytime|nighttime}, {bright sun|overcast|stormy}, {glowing|twinkling|harsh}, {majestic|awe-inspiring|isolated|vibrant}, {snow-capped|rocky}, {crisp air|gentle breeze|strong winds}
+mountain peak, rocky terrain, {sunrise|sunset}, {majestic|grandiose}, {misty|ethereal}, {sublime|awe-inspiring}
+snowy wonderland, snow-capped mountains, winter wonderland, {dawn|midday}, {frosty|chilly}, {sparkling|glittery}, {ethereal|magical}
+mountain, {nighttime|evening}, {starry|twinkling}, {majestic|grand}, {peaceful|serene}, {silhouetted|shadowy}
 waterfall, mountain, snow, {sunrise|sunset}, {misty|hazy}, {majestic|grand}, {vibrant|colorful}
-Glacier, ice, snow, mountains, {sunrise|sunset}, {frosty|chilly}, {majestic|grand}, {harsh|unforgiving}
-Volcano, ash, lava, rocks, {dawn|dusk}, {smoky|hazy}, {ominous|threatening}, {powerful|forceful}
+glacier, ice, snow, mountains, {sunrise|sunset}, {frosty|chilly}, {majestic|grand}, {harsh|unforgiving}
+volcano, ash, lava, rocks, {dawn|dusk}, {smoky|hazy}, {ominous|threatening}, {powerful|forceful}
 mountain, landscape, trees, {sunrise|sunset}, {cloudy|stormy}, {awe-inspiring|grand}, {vast|unspoiled|untouched}
 tundra, snow, mountains, {sunrise|sunset}, {blizzard|snowstorm}, {barren|desolate}, {harsh|unforgiving}
 road, mountains, sky, {morning|evening}, {clear|sunny}, {adventurous|freedom}, {picturesque|scenic}

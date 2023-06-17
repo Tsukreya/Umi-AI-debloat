@@ -1,3 +1,3 @@
-({multicolored hair|streaked hair|gradient hair|colored inner hair|split-color}:1.2), (__traits/hair/MultiCol__, __traits/hair/MultiCol__)
-({multicolored hair|streaked hair|gradient hair|colored inner hair}:1.2), (__traits/hair/MultiCol__, __traits/hair/MultiCol__, __traits/hair/MultiCol__)
-({multicolored hair|streaked hair|gradient hair|colored inner hair}:1.2), (__traits/hair/MultiCol__, __traits/hair/MultiCol__, __traits/hair/MultiCol__, __traits/hair/MultiCol__)
+({multicolored hair|streaked hair|gradient hair|colored inner hair|split-color}:1.2), (__traits/hair/multicol__, __traits/hair/multicol__)
+({multicolored hair|streaked hair|gradient hair|colored inner hair}:1.2), (__traits/hair/multicol__, __traits/hair/multicol__, __traits/hair/multicol__)
+({multicolored hair|streaked hair|gradient hair|colored inner hair}:1.2), (__traits/hair/multicol__, __traits/hair/multicol__, __traits/hair/multicol__, __traits/hair/multicol__)

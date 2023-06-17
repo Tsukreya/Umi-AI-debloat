@@ -1,27 +1,27 @@
-{__Colors/Color__|} frilled shirt
-{__Colors/Color__|} sleeveless shirt
-{__Colors/Color__|} crop top
-{__Colors/Color__|} blouse
-{__Colors/Color__|} camisole
-{__Colors/Color__|} cardigan
-{__Colors/Color__|} cardigan vest
-{__Colors/Color__|} compression shirt
-{__Colors/Color__|} hoodie
-{__Colors/Color__|} blazer
-{__Colors/Color__|} shirt
-{__Colors/Color__|} collared shirt
-{__Colors/Color__|} dress shirt
-{__Colors/Color__|} off-shoulder shirt
-{__Colors/Color__|} sleeveless shirt
-{__Colors/Color__|} striped shirt
-{__Colors/Color__|} t-shirt
-{__Colors/Color__|} sweater
-{__Colors/Color__|} turtleneck
-{__Colors/Color__|} sleeveless turtleneck
-{__Colors/Color__|} halterneck
-{__Colors/Color__|} shrug
-{__Colors/Color__|} raglan sleeves
-{__Colors/Color__|} tube top
-{__Colors/Color__|} tank top
-{__Colors/Color__|} sweater dress
-{__Colors/Color__|} underbust
+{__colors/color__|} frilled shirt
+{__colors/color__|} sleeveless shirt
+{__colors/color__|} crop top
+{__colors/color__|} blouse
+{__colors/color__|} camisole
+{__colors/color__|} cardigan
+{__colors/color__|} cardigan vest
+{__colors/color__|} compression shirt
+{__colors/color__|} hoodie
+{__colors/color__|} blazer
+{__colors/color__|} shirt
+{__colors/color__|} collared shirt
+{__colors/color__|} dress shirt
+{__colors/color__|} off-shoulder shirt
+{__colors/color__|} sleeveless shirt
+{__colors/color__|} striped shirt
+{__colors/color__|} t-shirt
+{__colors/color__|} sweater
+{__colors/color__|} turtleneck
+{__colors/color__|} sleeveless turtleneck
+{__colors/color__|} halterneck
+{__colors/color__|} shrug
+{__colors/color__|} raglan sleeves
+{__colors/color__|} tube top
+{__colors/color__|} tank top
+{__colors/color__|} sweater dress
+{__colors/color__|} underbust
