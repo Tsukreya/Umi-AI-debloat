@@ -1,0 +1,13 @@
+{__Colors/Color__|} dirndl
+{__Colors/Color__|} dress
+{__Colors/Color__|} china dress
+{__Colors/Color__|} japanese clothes
+{__Colors/Color__|} kimono
+{__Colors/Color__|} layered kimono
+{__Colors/Color__|} short kimono
+{__Colors/Color__|} chinese clothes
+{__Colors/Color__|} hanfu
+{__Colors/Color__|} yukata
+{__Colors/Color__|} korean clothes
+{__Colors/Color__|} hanbok
+{__Colors/Color__|} vietnamese dress

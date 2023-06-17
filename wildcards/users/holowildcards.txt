@@ -1,0 +1,57 @@
+(tokino sora:1.2), blue eyes, brown hair, long hair, hair flaps, hairclip, red ribbon, 
+(roboco-san:1.2), android, yellow eyes, brown hair, android, mechanical arms, mechanical legs, short hair, glasses, 
+azki, black hair, pink hair, purple eyes, colored inner hair
+sakura miko, pink hair, green eyes, hair ornament, nontraditional miko, medium hair, 
+hoshimachi suisei, blue hair, blue eyes, star in eye, hair between eyes
+yozora mel, blonde hair, short hair, skin fang, orange eyes,
+aki rosenthal, blonde hair, purple eyes, short hair, bob cut, parted bangs, detached low twintails, headgear, 
+shirakami fubuki, fox ears, white hair, blue eyes, ahoge, hair between eyes, single earring, fox tail, (pentagram:0.7)
+natsuiro matsuri, blue eyes, brown hair, petite, side ponytail, cat hair ornament, side ponytail, ahoge
+(minato aqua:1.2), purple eyes, two-tone hair, purple hair, blue hair, streaked hair, blunt bangs, sidelocks, ahoge, (twin drills:1.2), blue hair ribbon, french braid
+akai haato, blonde hair, ahoge, aqua eyes, heart hair ornament, very long hair, one side up, hair ribbon, red ribbon
+murasaki shion, loli, smug, yellow eyes, grey hair, short eyebrows, long hair, blunt bangs, sidelocks
+nakiri ayame, double bun, streaked hair, red eyes, oni horns, white hair, gradient hair, fang, tassel hair ornament
+oozora subaru, dark brown hair, short hair, blue eyes, swept bangs
+nekomata okayu, cat ears, cat tail, purple eyes, purple hair, ahoge, crossed bangs
+inugami korone, brown eyes, dog ears, brown eyes, dog tail, hair between eyes, bone hair ornament
+usada pekora, rabbit ears, white hair, twin braids, two-tone hair, blue hair, carrot hair ornament, orange eyes, rabbit-shaped pupils, thick eyebrows, hikimayu
+houshou marine, heterochromia, red eyes, yellow eyes, red hair, twintails, red hair ribbon
+tsunomaki watame, purple eyes, blonde hair, long hair, sheep horns, sheep ears, half updo
+momosuzu nene, green eyes, blonde hair, gradient hair, double bun, long hair, (pink hair:0.6), two side up, hair flower, 
+omaru polka, fox ears, blonde hair, playing card theme, fox girl, fox tail, streaked hair, (black hair:0.4), (pink hair:0.4), (facial marks:0.6), purple eyes, symbol shaped pupils, side braid, hair over shoulder, ahoge
+gawr gura, loli, grey hair, streaked hair, blue hair, shark teeth, shark girl, blue eyes, two side up, blunt bangs, shark hair ornament, short twintails, 
+amelia watson, blonde hair, (short hair:0.6), blue eyes, bob cut, monocle hair ornament, 
+ninomae ina'nis, dark purple hair, tentacle hair, pointy ears, mole under eye, fang, grey eyes, (blue eyes:0.6), blunt bangs
+takanashi kiara, gradient hair, orange hair, green hair, colored inner hair, 
+mori calliope, pink hair, pink eyes, blunt bangs, sidelocks
+hakos baelz, mouse girl, mouse ears, red hair, white hair, two-tone hair, black hair, twintails, blue eyes
+nanashi mumei, brown hair, brown eyes, streaked hair, (black hair:0.5), sidelocks, ahoge, hairclip, runes, feather hair ornament
+irys, heterochromia, purple eyes, blue eyes, dark purple hair, red hair, horns, pointy ears, 
+himemori luna, heterochromia, pink hair, purple eyes, green eyes, (princess:0.8), wavy hair, gradient hair, purple hair, one side up, single hair ring, candy hair ornament, 
+amane kanata, purple eyes, grey hair, streaked hair, short hair, colored inner hair, (pink hair:0.5), assymetrical bob cut, single hair intake, hair over one eye
+yuzuki choco, blonde hair, demon horns, long hair, wings, green eyes, gradient hair, pink hair, pointy ears
+uruha rushia, green hair, red eyes, medium hair, double buns, hair ribbon, skull hair ornament, sidelocks, 
+shiranui flare, tan, orange eyes, blonde hair, elf, dark skinned female, high ponytail, hair bow, sidelocks, 
+shirogane noel, grey hair, green eyes, short hair, french braid, hairband
+kiryu coco, orange hair, dragon horns, dragon girl, side braid, purple eyes
+tokoyami towa, purple hair, twintails, green eyes, pointy ears, streaked hair, (pink hair:0.6), sidelocks, hairclip, demon tail, 
+shishiro botan, lion ears, lion tail, grey eyes, grey hair, messy hair, long hair, two side up, sidelocks, ahoge
+yukihana lamy, pointy ears, yellow eyes, blue hair, streaked hair, very long hair, crossed bangs, heart ahoge
+la+ darkness, demon horns, streaked hair, grey hair, (purple hair:0.5), ahoge, pointy ears, yellow eyes, slit pupils, 
+takane lui, short hair, pink hair, head wings, blue eyes, 
+hakui koyori, pink hair, long hair, pink eyes, coyote ears, coyote tail
+sakamata chloe, streaked hair, red eyes, grey hair, (black hair:0.5)
+kazama iroha, blonde hair, green eyes, ponytail, hairband, hair ribbon
+moona hoshinova, two tone hair, starry hair, purple hair, colored inner hair, (blonde hair:0.5), (jitome:1.2), 
+kureiji ollie, pale skin, zombie, stitches, multicolored hair, white hair, red hair, pink hair, blunt ends, two-tone skin, patchwork skin, grey skin, white skin, stitched face, heterochromia, yellow eyes, red eyes, green eyes, gradient eyes, mismatched pupils, x shaped pupils, diamond shaped pupils, fangs, double buns, ahoge, black hair bow, 
+(kobo kanaeru:1.2), gradient hair, white hair, (antenna hair:1.2), blue eyes, vely long hair
+ookami mio, black hair, wolf ears, streaked hair, yellow eyes, flipped hair, spiked hair
+ceres fauna, green hair, antlers, yellow eyes, mole under eye
+ouro kronii, blue hair, short hair, hair intakes, chain headband, veil, (halo:0.6)
+ayunda risu, squirrel girl, green eyes, brown hair, hair ornament, squirrel ears, twintails, leaf hair ornament
+airani iofifteen, pink hair, (gradient hair:0.4), (blue hair:0.4), hair bun, ponytail, hair ribbon, purple eyes, 
+anya melfissa, brown hair, streaked hair, (blonde hair:0.5), wavy hair, purple eyes, very long hair, blunt bangs, two side up, gradient hair, 
+pavolia reine, green eyes, grey hair, feather hair ornament, aqua eyes, ponytail, braid
+vestia zeta, long hair, grey hair, cone hair bun, braided bangs, blue eyes, 
+kaela kovalskia, medium hair, blonde hair, sidelock, red eyes, eyewear on head, red ribbon, earrings
+tsukumo sana, dark skinned female, yellow eyes, very long hair, light brown hair, twintails, hair ornaments, sidelocks

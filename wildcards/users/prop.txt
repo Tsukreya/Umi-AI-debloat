@@ -1,0 +1,25 @@
+sword
+gun
+(transparent umbrella:1.05),
+chair
+backpack
+microphone
+handgun
+teacup
+cake
+tea set
+smoking pipe
+ofuda
+chopsticks
+ice cream
+camera
+wand
+guitar
+scythe
+dagger
+sake / 日本酒
+wine glass
+whip
+piano
+lantern
+お弁当
