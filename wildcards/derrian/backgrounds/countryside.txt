@@ -1,0 +1,34 @@
+countryside, fields, fence, {sunrise|sunset}, {foggy|hazy}, {rustic|quaint}, {peaceful|tranquil}
+lake, trees, rocks, {morning|evening}, {misty|hazy}, {serene|calm}, {picturesque|scenic}
+village, buildings, countryside, {morning|evening}, {foggy|hazy}, {quaint|charming}, {picturesque|scenic}
+medieval village,{cobblestone|paved} streets, {half-timbered|wooden} buildings, {colorful|bright} flags, {narrow|winding} alleys, {busy|bustling} market, {stone|brick} walls, {quaint|charming} architecture, {horse-drawn|carriage} transport, {old-fashioned|traditional} lamps, {medieval|historical} setting
+hillside covered in {sakura|cherry blossom} trees in bloom, {midday|afternoon} lighting, idyllic and picturesque scenery
+stream, trees, rocks, {morning|evening}, {misty|hazy}, {wild|untamed}, {picturesque|scenic}
+meadow, flowers, grass, {morning|evening}, {clear|sunny}, {cheerful|uplifting}, {idyllic|peaceful}
+castle, {evening|nighttime}, {mysterious|haunting}, {stone walls|tall spires}, {cobblestone streets|iron gates}, {torchlight|candlelight}, {royal|majestic}
+medieval village, {daytime|nighttime}, {clear sky|overcast sky}, {rustic|quaint} buildings, {cobblestone|dirt} streets, {stone|wooden} houses, {tall|short} spires, {smoke|steam} rising from chimneys, {colorful|faded} banners, {lush|sparse} vegetation, {peaceful|quiet} atmosphere
+rustic meadow, wildflowers, rolling hills, {golden hour|dusk}, {rustic|vintage}, {whimsical|dreamy}, {warm|cozy}
+serene lakeside, trees, calm water, {morning|evening}, {tranquil|peaceful}, {reflective|contemplative}, {pastel|soft}
+rolling vineyard, grapevines, hilly landscape, {golden hour|dusk}, {rustic|earthy}, {relaxing|serene}, {wholesome|natural}
+medieval castle, stone walls, moats, tapestries, {dawn|dusk}, {torchlit|flickering}, {majestic|grand}, {romantic|fairytale}
+castle exterior,{full moon|dark night}, {misty|foggy}, {eerie|spooky}, {mysterious|enigmatic}
+castle ruins, {sunset|dusk}, {decaying|decrepit}, {overgrown|mossy}, {abandoned|desolate}
+castle garden, {morning|dawn}, {blooming|flowering}, {mysterious|enigmatic}, {lush|greenery}
+castle bridge, {dawn|morning}, {foggy|misty}, {gloomy|shadowy}, {medieval|gothic}
+vineyard, grapes, fields, mountains, {morning|evening}, {sunny|clear}, {rustic|quaint}, {picturesque|scenic}
+countryside, fields, fence, {sunrise|sunset}, {foggy|hazy}, {rustic|quaint}, {peaceful|tranquil}
+lake, trees, rocks, {morning|evening}, {misty|hazy}, {serene|calm}, {picturesque|scenic}
+stream, trees, rocks, {morning|evening}, {misty|hazy}, {wild|untamed}, {picturesque|scenic}
+meadow, flowers, grass, {morning|evening}, {clear|sunny}, {cheerful|uplifting}, {idyllic|peaceful}
+village, buildings, countryside, {morning|evening}, {foggy|hazy}, {quaint|charming}, {picturesque|scenic}
+countryside, fields, barn, {morning|evening}, {foggy|hazy}, {rural|peaceful}, {charming|picturesque}
+graveyard, misty, somber, ancient headstones, {creepy|spooky} atmosphere, {moonlit|shadowy} pathway, {overgrown|wild} foliage
+graveyard, silent, eerie, wrought iron gates, {flickering|dim} lanterns, {crumbling|weathered} tombs, {damp|moist} earth
+graveyard, ghostly, chilling, ivy-covered walls, {haunting|ethereal} whispers, {tombstones|graves} shrouded in {mystery|enigma}, {pale|ethereal} moonlight
+graveyard, solemn, reflective, family plots, {crackling|burning} candles, {freshly|mowed} grass, {peaceful|calming} solitude
+graveyard, haunted, ominous, mausoleum, {faint|whispering} voices, {mossy|decaying} statues, {unsettling|disturbing} presence
+graveyard, trees, mist, {night|twilight}, {foggy|hazy}, {haunted|creepy}, {eerie|spooky}
+canal, buildings, water, {morning|evening}, {clear|sunny}, {peaceful|tranquil}, {picturesque|scenic}
+prairie, grass, fields, wind turbines, {sunrise|sunset}, {windy|breezy}, {spacious|expansive}, {calm|tranquil}
+finnish lakeside retreat, lakeside, retreat, {rustic|wooden} cabin, {tranquil|serene} setting, sauna, {wood-fired|traditional} hot tub, {birch|pine} trees, {clear|crystal} water, fishing, {peaceful|calm} atmosphere, {midnight|polar} sun, {winter|snowy} wonderland, {aurora borealis|northern lights} viewing, {finnish|scandinavian} design, {outdoor|nature} activities
+harbor, ships, cranes, {morning|night}, {cloudy|stormy}, {busy|active}, {industrial|gritty}

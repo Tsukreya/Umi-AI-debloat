@@ -1,0 +1,31 @@
+mountain, landscape, trees, {sunrise|sunset}, {cloudy|stormy}, {awe-inspiring|grand}, {vast|unspoiled|untouched}
+snowy mountains, jagged peaks, pink and purple sunset, frozen river, {blizzard|snowstorm}, {crisp|chilly} air, {dusk|evening}
+snowy mountains, snowdrifts, starry night sky, white pine forest, {blustery|whipping} winds, {frosty|icy} terrain, {midnight|late night}
+snowy mountains, icy cliffs, bright blue skies, frozen waterfall, {avalanche warnings|dangerous conditions}, {refreshing|bracing} breeze, {morning|sunrise}
+snowy mountains, powdery snow, red and orange sunrise, rocky outcroppings, {sleet|freezing rain}, {nippy|frigid} temperatures, {daytime|day}
+snowy mountains, frozen lake, fluffy clouds, snow-covered trees, {snowdrifts|drifting snow}, {numbing|biting} cold, {twilight|dawn}
+volcano, {explosive|erupting} {mountain|peak}, {crater|caldera}, {magma|bubbling magma}, {smoke|ash|steam}, {red|orange|yellow|black} {rocks|boulders}, {desolate|ash-covered} {landscape}, {rugged|rocky} {terrain}, {red|orange|yellow} {sunrise|sunset} {glow|light}, {stormy|thunderous} skies
+volcano, {smoking|active}, {rocky|rugged|barren} terrain, {billowing|puffing} smoke, {red|orange|yellow} lava, {sunrise|sunset} skies, {cloudy|stormy} weather
+mountain covered in {sakura|cherry blossom} trees in bloom, {pink|white} petals falling from the trees, {dawn|dusk} lighting, serene and enchanting atmosphere
+mountain covered in {sakura|cherry blossom} trees in bloom, misty and foggy atmosphere, {morning|evening} lighting, mystical and mysterious mood.
+mountain with a {creek|stream} running through it, {sakura|cherry blossom} trees in bloom, {afternoon|evening} lighting, tranquil and soothing ambiance
+mountain surrounded by a forest of {sakura|cherry blossom} trees in bloom, {morning|evening} lighting, dreamy and enchanting atmosphere
+mountain ridge covered in {sakura|cherry blossom} trees in bloom, {sunrise|sunset} lighting, majestic and grand atmosphere
+mountain with a waterfall and {sakura|cherry blossom} trees in bloom, {morning|evening} lighting, peaceful and refreshing ambiance
+mountain with a garden of {sakura|cherry blossom} trees in bloom, {midday|afternoon} lighting, enchanting and magical atmosphere
+mountain with a village of {sakura|cherry blossom} trees in bloom, {morning|evening} lighting, charming and quaint ambiance
+mountain peak covered in {sakura|cherry blossom} trees in bloom, {dawn|dusk} lighting, ethereal and enchanting mood
+mountain peak, {sunrise|sunset}, {majestic|awe-inspiring}, {isolated|remote}, {crisp|refreshing} air, {panoramic|breathtaking} views, {adventurous|thrilling}
+mountain, {sunrise|sunset|daytime|nighttime}, {bright sun|overcast|stormy}, {glowing|twinkling|harsh}, {majestic|awe-inspiring|isolated|vibrant}, {snow-capped|rocky}, {crisp air|gentle breeze|strong winds}
+mountain peak, rocky terrain, {sunrise|sunset}, {majestic|grandiose}, {misty|ethereal}, {sublime|awe-inspiring}
+snowy wonderland, snow-capped mountains, winter wonderland, {dawn|midday}, {frosty|chilly}, {sparkling|glittery}, {ethereal|magical}
+mountain, {nighttime|evening}, {starry|twinkling}, {majestic|grand}, {peaceful|serene}, {silhouetted|shadowy}
+waterfall, mountain, snow, {sunrise|sunset}, {misty|hazy}, {majestic|grand}, {vibrant|colorful}
+glacier, ice, snow, mountains, {sunrise|sunset}, {frosty|chilly}, {majestic|grand}, {harsh|unforgiving}
+volcano, ash, lava, rocks, {dawn|dusk}, {smoky|hazy}, {ominous|threatening}, {powerful|forceful}
+mountain, landscape, trees, {sunrise|sunset}, {cloudy|stormy}, {awe-inspiring|grand}, {vast|unspoiled|untouched}
+tundra, snow, mountains, {sunrise|sunset}, {blizzard|snowstorm}, {barren|desolate}, {harsh|unforgiving}
+road, mountains, sky, {morning|evening}, {clear|sunny}, {adventurous|freedom}, {picturesque|scenic}
+mountain, misty, clouds, {dawn|dusk}, {majestic|grand}, {remote|isolated}, {ethereal|enchanting}
+tundra, snow, mountains, {sunrise|sunset}, {blizzard|snowstorm}, {barren|desolate}, {harsh|unforgiving}
+road, mountains, sky, {morning|evening}, {clear|sunny}, {adventurous|freedom}, {picturesque|scenic}
