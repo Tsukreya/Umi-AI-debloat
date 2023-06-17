@@ -8,7 +8,14 @@ Most of the wildcards in user directory come from wonderful users of Touhou Proj
 
 I advise using this with https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.
 
-Below is the usage taken directly from UmiAI's wiki:
+## Installation 
+Install it as you would any other extension, either by:
+ - dropping the URL `https://github.com/Tsukreya/Umi-AI-debloat.git` into the install from URL box and pressing install.
+ - or running `git clone https://github.com/Tsukreya/Umi-AI-debloat` inside the webui extensions folder.
+   
+Either way a restart of the webui if you have it currently running is advised, so that the autocomplete extension (which I recommend once again) to pick up on the wildcards.
+
+### Below is the usage taken directly from UmiAI's wiki:
 
 * `{a|b|c|...}` will pick one of `a`, `b`, `c`, ...
 * `{x-y$$a|b|c|...}` will pick between `x` and `y` of `a`, `b`, `c`, ...
@@ -35,7 +42,8 @@ WebUI Prompt Reference
 * `[a|b|c|...]` cycles the prompt between the given options each step
 * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2` can be modified by adding `:x` like `text1:x AND text2:y`
 
-
+<details><summary>Click this to reveal the original README file.</summary>
+    
 # Umi AI: A WebUI Wildcard Mod!
 
 Umi AI is a wildcard mod that allows you to create randomized characters from random species with modular clothing types. It will grow over time and eventually become the ultimate character randomizer and creator.
@@ -82,3 +90,4 @@ https://github.com/Klokinator/UnivAICharGen.git
 Press Install, and you'll be ready to start randomly generating with Umi AI!
 
 At this point, you can just [join the Umi AI Discord](https://discord.gg/9K7j7DTfG2) to learn all the nuances of how to use Umi AI properly as well as share your characters!
+</details>
