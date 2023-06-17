@@ -1,2 +1,2 @@
 no panties
-{__clothing/panties/panties_gen__|__clothing/panties/panties_gen__, __clothing/panties/panties_mod_nsfw__}
+{__derrian/clothing/panties/panties_gen__|__derrian/clothing/panties/panties_gen__, __derrian/clothing/panties/panties_mod_nsfw__}

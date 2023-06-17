@@ -1,3 +1,3 @@
-__clothing/tops/tops_nsfw_gen__, __clothing/bottoms/bottoms_nsfw_gen__{, __clothing/clothing_gen_helper__|}
-{{bottomless|topless},|} __clothing/full_body/full_body_gen__{, __clothing/clothing_gen_helper__|}
+__derrian/clothing/tops/tops_nsfw_gen__, __derrian/clothing/bottoms/bottoms_nsfw_gen__{, __derrian/clothing/clothing_gen_helper__|}
+{{bottomless|topless},|} __derrian/clothing/full_body/full_body_gen__{, __derrian/clothing/clothing_gen_helper__|}
 completely nude

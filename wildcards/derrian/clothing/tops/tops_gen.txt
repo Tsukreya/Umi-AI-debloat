@@ -1,2 +1,2 @@
-{__clothing/tops/shirt__|__clothing/tops/tops_mod__ __clothing/tops/shirt__}
-{__clothing/tops/shirt__|__clothing/tops/tops_mod__ __clothing/tops/shirt__}, {__clothing/tops/coat__|__clothing/tops/tops_mod__ __clothing/tops/coat__}
+{__derrian/clothing/tops/shirt__|__derrian/clothing/tops/tops_mod__ __derrian/clothing/tops/shirt__}
+{__derrian/clothing/tops/shirt__|__derrian/clothing/tops/tops_mod__ __derrian/clothing/tops/shirt__}, {__derrian/clothing/tops/coat__|__derrian/clothing/tops/tops_mod__ __derrian/clothing/tops/coat__}
