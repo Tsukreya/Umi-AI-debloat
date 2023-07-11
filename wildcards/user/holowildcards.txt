@@ -1,5 +1,5 @@
-(tokino sora:1.2), blue eyes, brown hair, long hair, hair flaps, hairclip, red ribbon, 
-(roboco-san:1.2), android, yellow eyes, brown hair, android, mechanical arms, mechanical legs, short hair, glasses, 
+tokino sora, blue eyes, brown hair, long hair, hair flaps, hairclip, red ribbon, 
+roboco-san, android, yellow eyes, brown hair, android, mechanical arms, mechanical legs, short hair, glasses, 
 azki, black hair, pink hair, purple eyes, colored inner hair
 sakura miko, pink hair, green eyes, hair ornament, nontraditional miko, medium hair, 
 hoshimachi suisei, blue hair, blue eyes, star in eye, hair between eyes
