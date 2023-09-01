@@ -471,7 +471,7 @@ class Script(scripts.Script):
 
     def ui(self, is_img2img):
         self.is_txt2img = is_img2img == False
-        with gr.Group():
+        with gr.Accordion('UmiAI', open=False):
             with gr.Row():
                 enabled = gr.Checkbox(label="UmiAI enabled", value=True)
                 verbose = gr.Checkbox(label="Verbose logging", value=False)
