@@ -473,15 +473,12 @@ class Script(scripts.Script):
         self.is_txt2img = is_img2img == False
         with gr.Accordion('UmiAI', open=False):
             with gr.Row():
-                enabled = gr.Checkbox(label="UmiAI enabled", value=True)
+                enabled = gr.Checkbox(label="Enable UmiAI", value=True)
+                shared_seed = gr.Checkbox(label="Static wildcards", elem_id="umiai-static-wildcards", value=False, tooltip="same seed = same prompt")
+                same_seed = gr.Checkbox(label='Same prompt in batch', value=False)
+                cache_files = gr.Checkbox(label="Cache tag files", value=True)
                 verbose = gr.Checkbox(label="Verbose logging", value=False)
-                cache_files = gr.Checkbox(label="Cache files", value=True)
-                same_seed = gr.Checkbox(label='Same prompt in batch',
-                                        value=False)
-                negative_prompt = gr.Checkbox(label='**negative keywords**',
-                                              value=True)
-                shared_seed = gr.Checkbox(label="Static wildcards",
-                                          value=False)
+                negative_prompt = gr.Checkbox(label='**negative keywords**', value=True)
 
             option_generator = OptionGenerator(TagLoader())
             options = [
