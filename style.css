@@ -1,0 +1,7 @@
+.umiai-active {
+    color: green !important;
+}
+
+.dark .umiai-active {
+    color: greenyellow !important;
+}
