@@ -471,9 +471,10 @@ class Script(scripts.Script):
 
     def ui(self, is_img2img):
         self.is_txt2img = is_img2img == False
-        with gr.Accordion('UmiAI', open=False):
+        with gr.Accordion('UmiAI', open=False, elem_id="umiai"):
             with gr.Row():
                 enabled = gr.Checkbox(label="Enable UmiAI", value=True)
+                enabled.change(None,_js="document.getElementById(\"umiai\").classList.toggle(\"umiai-active\")")
                 shared_seed = gr.Checkbox(label="Static wildcards", elem_id="umiai-static-wildcards", value=False, tooltip="same seed = same prompt")
                 same_seed = gr.Checkbox(label='Same prompt in batch', value=False)
                 cache_files = gr.Checkbox(label="Cache tag files", value=True)
