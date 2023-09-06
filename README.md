@@ -3,6 +3,11 @@ The author of the original repo has split the repos into an embedding one and a 
 
 https://github.com/Klokinator/Umi-AI-Wildcards
 
+I will nevertheless maintain a fork with the wildcards I'm using and some opinionated changed:
+
+https://github.com/Tsukreya/Umi-AI-Wildcards
+
+I switch over to that repo to have easier time tracking changes in the original repo.
 # Fork
 The weird commit numbers stem from the fact that I purged the git history to not download 1gb worth of embeddings every time.
 
