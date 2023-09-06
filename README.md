@@ -1,5 +1,6 @@
 # Update
 The author of the original repo has split the repos into an embedding one and a wildcard-only one, so the original reason for creating this fork is gone:
+
 https://github.com/Klokinator/Umi-AI-Wildcards
 
 # Fork
