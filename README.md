@@ -1,3 +1,7 @@
+# Update
+The author of the original repo has split the repos into an embedding one and a wildcard-only one, so the original reason for creating this fork is gone:
+https://github.com/Klokinator/Umi-AI-Wildcards
+
 # Fork
 The weird commit numbers stem from the fact that I purged the git history to not download 1gb worth of embeddings every time.
 
