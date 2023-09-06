@@ -1,6 +1,5 @@
 # Fork
-I git pull this often and I don't want to have to download every single embedding every time, that's why this fork.
-The weird commit numbers stem from the fact that I purged the git history to not download a 1gb file every time.
+The weird commit numbers stem from the fact that I purged the git history to not download 1gb worth of embeddings every time.
 
 The wildcards in the derrian directory come from https://gitgud.io/psuedo/wildcards_stuff, it includes some very nice recursive ones.
 
@@ -14,6 +13,14 @@ Install it as you would any other extension, either by:
  - or running `git clone https://github.com/Tsukreya/Umi-AI-debloat` inside the webui extensions folder.
    
 Either way a restart of the webui if you have it currently running is advised, so that the autocomplete extension (which I recommend once again) to pick up on the wildcards.
+
+### Settings override usage:
+Values that you can override are: `cfg_scale, sampler, steps, width, height, denoising_strength`
+You would do so by wrapping those in `@@` and assigning a value. You can specify multiple overrides in one `@@` block using `,` as a separator:
+`@@width=512, height=768@@`
+`@@width={512|768}, height={512|768}@@`
+
+Using `,` as a separator is a change from the original repo which used `|` as a separator, but I found it ambiguous and too messy when setting wildcard values for setting overrides directly in the prompt.
 
 ### Below is the usage taken directly from UmiAI's wiki:
 
@@ -42,7 +49,7 @@ WebUI Prompt Reference
 * `[a|b|c|...]` cycles the prompt between the given options each step
 * `text1 AND text2` creates a prompt that is a mix of the prompts `text1` and `text2` can be modified by adding `:x` like `text1:x AND text2:y`
 
-<details><summary>Click this to reveal the original README file.</summary>
+<details><summary>Original README file.</summary>
     
 # Umi AI: A WebUI Wildcard Mod!
 
