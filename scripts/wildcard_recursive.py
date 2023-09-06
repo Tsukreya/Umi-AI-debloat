@@ -581,7 +581,3 @@ class Script(scripts.Script):
             if verbose:
                 p.extra_generation_params["File includes"] = "|".join(
                     TagLoader.files)
-
-from modules import sd_hijack
-path = os.path.join(scripts.basedir(), "embeddings")
-sd_hijack.model_hijack.embedding_db.add_embedding_dir(path)
