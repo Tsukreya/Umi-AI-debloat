@@ -361,9 +361,9 @@ class PromptGenerator:
         self.negative_tag_generator = NegativePromptGenerator()
         self.settings_generator = SettingsGenerator()
         self.replacers = [
-            self.settings_generator,
             TagReplacer(self.tag_selector, options),
-            DynamicPromptReplacer()
+            DynamicPromptReplacer(),
+            self.settings_generator
         ]
         self.verbose = dict(options).get('verbose', False)
 
@@ -425,7 +425,8 @@ class SettingsGenerator:
             'sampler': str,
             'steps': int,
             'width': int,
-            'height': int
+            'height': int,
+            'denoising_strength': float
         }
 
     def strip_setting_tags(self, prompt):
