@@ -424,6 +424,8 @@ class SettingsGenerator:
             'cfg_scale': float,
             'sampler': str,
             'steps': int,
+            'width': int,
+            'height': int
         }
 
     def strip_setting_tags(self, prompt):
