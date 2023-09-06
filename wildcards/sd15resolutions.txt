@@ -1,7 +1,7 @@
-@@width=512@@, @@height=768@@
-@@width=768@@, @@height=512@@
-@@width=960@@, @@height=512@@
-@@width=576@@, @@height=768@@
-@@width=600@@, @@height=800@@
-@@width=800@@, @@height=600@@
-@@width=640@@, @@height=640@@
+@@width=512|height=768@@
+@@width=768|height=512@@
+@@width=960|height=512@@
+@@width=576|height=768@@
+@@width=600|height=800@@
+@@width=800|height=600@@
+@@width=640|height=640@@
